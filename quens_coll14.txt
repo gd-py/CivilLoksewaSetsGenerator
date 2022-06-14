@@ -1,0 +1,1155 @@
+3690. Which one of the following represents an activity
+	Sujit, 2013, Activity means which has particular duration, start, finish and have some resource, so all satisfy this condition.
+	Ch Srinivasa Rao, 2014, Activity means certain designated tisk including required resources to complete the same.
+	Sunny, 2015, Activity means a particular task in the project.
+	Said Jamal, 2015, Activity means any purposeful and designated task having define resources with ultimate end goal and desired result.
+	Hesham Bendary, 2015, Activity : It is a unit of work break down structure which have a duration and unique purpose to do.
+	Gunjan Kunwar, 2015, Can you please tell me what is the difference between event and activity?
+	Annoynomous, 2015, Activity means to do any sort of work, which may include any thing that is physical or mental.
+	Kennedy Kean Nava, 2015, How about alternative A?
+	David Samuel, 2017, Activity mean to do work an finish it without remaining.
+	Hanimo, 2019, The Correct answer would be option A.
+	Raj, 2019, Yeah, agree the correct answer is A.
+	Sachin, 2021, Activity means a consume resources & And has a Definite beginning & end. $%  $% The beginning & Completion of an activity.
+
+
+
+3691. Pick up the incorrect statement from the following:
+	Sanjeev, 2014, Arrow represents the duration of activity not scale distance between events.
+	Mohit, 2015, I think option A is also correct because in a network activity is denoted by an arrow.
+	Ajay, 2017, I think the dummy activity does not require any time.
+	Rajarshi, 2017, Dummy activity doesn't any resource or time for completion. So the correct answer will be D & E.
+	Muluken, 2017, Option 'E' can be an answer. Because dummy activity is an activity but which do not require any time frame or the duration is zero unit of time.
+	Debashis, 2017, Option E is the answer as dummy activity doesn't consume any time.
+	Umar Bin Abdul Aziz, 2019, A bigger arrow would represent activity with larger duration, same goes for the smaller arrow, so how come D is correct?
+	Gajendra Raj Joshi, 2019, @All. $%  $% Arrow doesn't represent the amount of duration. We don't treat it the way we treat vectors. It is the basic rule of network diagram.
+	Gaurav Kumar, 2021, There is no significance of the length of the arrow in the project network. $%  $% It can be drawn from left to right or right to left.
+	Pranay Warghat, 2021, A is the correct answer.
+	Pk Manush, 2021, D is the correct answer because. $%  $% Duration of the activities are representing from left to the right.
+
+
+
+3692. The technique for establishing and maintaining priorities among the various jobs of a project, is known
+	Sudarshan, 2019, It's called critical path schedule.
+	Dipu Bunku Rose, 2020, @Sudarshan is right.
+	Sakshi, 2020, Why the critical path schedule? Explain.
+	Jayson R., 2021, Critical in the sense that activities under this path are the priorities and cannot be delayed. The delay of any of the activities in this path is directly delay the whole project.
+	Jayson R., 2021, Critical in the sense that activities under this path are the priorities and cannot be delayed. The delay of any of the activities in this path is directly delay the whole project.
+
+
+
+3693. Mile Stone charts were invented in the year of
+	Vivek Wisdom, 2015, What is the another name of mile stone chart?
+	Sunil, 2016, Gantt chart 1910. Then it's improvement is called milestone chart in 1940.
+	Raju Raut, 2016, Gantt chart which was developed around 1900 AD after that it is modified mile stone chart in 1940.
+	Hardik, 2019, Bar chart - 1900. $% Milestone chart - 1949. $% Pert - 1950. $% C.p.m - 1957.
+	Hardik, 2020, Milestone chart-1940.
+	Gajendra, 2021, What is the use of a milestone chart?
+
+
+
+3694. Frederick W. Taylor introduced a system of working known as
+	Snehal.S.Shisode, 2016, According to S.V.Deodhar functional organisation introduced by F.W.Taylor.
+	Hiral Makwana, 2017, The Effective organisation is given by?
+	Mahi, 2017, Wahat about remaining all 3 organization. Who invented them?
+	Roshan Jha, 2018, It is Line organisation.
+	Pubali, 2018, It is a functional organisation. I agree.
+	Sandeep Kumar, 2021, Functional organization how? Explain.
+
+
+
+3695. If to, tp and tm are the optimistic, pessimistic and most likely time estimates of an activity respectively, the expected time t of the activity will be
+	Rajesh, 2016, Its a formula for expected time.
+	Burhan Ali, 2017, Anyone explain it.
+	Mohamed Sajid, 2018, Can anyone explain this?
+	Sameer Sopori, 2018, It's simply to estimate the AVERAGE TIME, {(t1+t2+t3+t4+t5+t6)/6}. $%  $% But here we are using to, tp and tm  $% 'to' Means, expected that the project will be finished within this time. $% 'tp' Means, there are more chances that the project will be finished within this time. $% 'tm' Means, there are chances it will take more time, due to accidents or delays or any other reason. $%  $% For example:  tomorrow I have to pour the concrete in foundation work. $%  $% 'to' if the weather will remain good and workers will work continuously we can finish it early in 6 hours (20% chances). $%  $%  'tp' As per the general weather conditions and workers average work output, we will finish it in 8 hours (60% chances). $%  $% 'tm' in case of rain or snow, or any accident on site, it could take more time, and maybe it will be finished in 11 hours. (20%  chances). $%  $% So the average expected time is = {to+4ta+tp/6 }  = {6+(4*8)+11}/6  =  8.16 hours.
+	Yiheyis H, 2018, Thanks a lot @Sameer.
+	Dharam Singh, 2018, Thanks all.
+	Gajendra, 2021, Thanks @Sameer.
+
+
+
+3696. In the given figure, the network of a project represents  
+	Hesham Bendary, 2015, A, B, C are correct. Anyone explain why answer is (C)?
+	Sumit, 2016, B is wrong because no arrow sign. A and  C is correct. But C gives both activity and time. So more accurate is c.
+	Abdul Samad, 2016, C is correct, it gives both the information.
+	Harshil Jariwala, 2017, Activities are shown by arrows only. There is no arrow shown here. So, option D is the right answer.
+	Ravi, 2018, Thanks for the right information @Sumit.
+	Rahul Agrahari, 2018, Thanks @Sumit.
+	Muhammad Atiq, 2018, But how it take 8 units of time? $%  $% Can anyone explain this?
+	Gulshan K, 2019, @Muhammad. $%  $% The digit written on an arrow represents the time required to complete that activity.
+	Bastenga, 2019, Right, Thanks @Sumit.
+	Dinesh, 2020, D is the correct answer. Because, Arrow indicates activity. Here no arrow, so no activity.
+	Shubham Anadkat, 2021, "Excavation Of Footing" indicates the Activity. So here no matter there is an arrow or not. $%  $% So according to me option C fulfill all criteria.
+	Deepankar, 2021, B is wrong because there is no arrow-head that would tell which is a head event and which is tail event. $%  $% A is true but C gives more detail in addition to A.  Thatss why it is preferred over A.
+
+
+
+3697. Pick up the PERT event from the following:
+	Hesham Bendary, 2015, What was the meaning of PERT?
+	Venugopal, 2015, Project Evaluation Review Technic.
+	Deepak Prakash, 2015, In pert the activity is scheduled in such a way that the three time frame are taken into consideration. And they are optimistic time, pessimistic time and most likely time and related as (t0+4tm+tp)/6. To provide the most effective time for completion of the activity.
+	Adebola Bayewun, 2016, The alternative answers are tasks involved in the completion of a project & PERT (Programme, Evaluation, Review& Techniques is a statistical tool for analyzing the tasks so as to save time. PERT is used in controlling tasks by considering a three-time frames the optimum, pessimistic & most likely times.
+	Har, 2017, PERT=The program (or project) evaluation and review technique.
+	Makar, 2019, PERT means program evaluation revised time. Best eg is any scientific project like ISRO. Which required some time for this project but approximately.
+
+
+
+3698. If D is the duration, ES and EF are the earliest start and finish, LS and LF are latest start and latest finish time, then the following relation holds good
+	Joy, 2020, Explain the answer.
+	Nirash Nirban, 2020, Explain the given answer.
+	Salman, 2020, Duration, D=Early finish- early start or D = LF - LS. $% Option A is same to D. $% B and C are same. $% So E is the correct answer.
+
+
+
+3699. Final technical authority of a project lies with
+	Manoj, 2014, Its final handing over & release of payments.
+	Aazam, 2017, Its finally done after the completion of project and chief engineer is senior of all engineers which is elected by government and project is completely passed after the supervision of chief engineer, no further supervision is required once chief engineer has marked the project passed.
+	Zahid Khattak, 2019, The practical utility of concrete technology for civil engineers.
+
+
+
+3700. The performance of a specific task in CPM, is known
+	Lal Babu Yadav, 2015, CPM is the activity oriented.
+	Hesham Bendary, 2015, CPM : Critical Path Method.
+	Har, 2017, A PERT chart is a project management tool used to schedule, organize, and coordinate tasks within a project. PERT stands for Program Evaluation Review Technique, a methodology developed by the US Navy in the 1950s to manage the Polaris submarine missile program. A similar methodology, the Critical Path Method (CPM) was developed for project management in the private sector at about the same time. $%  $% The performance of a specific task in PERT, is known EVENT.
+	Awais Ali, 2020, Event is the right answer.
+	Gurjant Singh, 2020, Yes, event is the right answer.
+	Sahil Chavda, 2020, Given options is correct.
+	Sajid Aziz, 2020, The beginning and end of a job, are called events. $%  $% The performance of the specific task in CPM is called activity.
+
+
+
+3701. Pick up the correct statement from the following:
+	Kiran, 2016, Option D should be the answer because the float is zero hence, it is critical.
+	Zankloony, 2016, How total float could be positive or negative? This is wrong.
+	Sarathy, 2016, Can't get this. Anyone explain me.
+	Navi, 2016, Option d is correct. $%  $% Float of an activity can never be negative.
+	Adarsha, 2017, Negative float, also known as negative slack, is the amount of time beyond aproject's scheduled completion that a task within the project requires. Total float is the amount of time a task within a project can be delayed without endangering theproject deadline. Hence all the options are correct.
+	Bikash Medhi, 2017, Float and slack are analogous, not totally same. $% Floats are classified as; $% 1) Total float $% 2) Free float $% 3) Independent float $% 4) interfering float $%  $% So, I think option (c) is correct.
+	Gaurav, 2017, All are correct, it is saying float can be any value, not particularly total float.
+	Sajid, 2018, What is meant by float here? Explain.
+	Asif, 2020, Correct Answer is D.
+	Mansur Ali, 2021, Except for critical path, all other network paths have different completion time and if any path has more or less or equal time then the critical path, then that path is called +ve, -ve or =  FLOAT.
+	Jitendra, 2021, Which activity has negative float? Please explain.
+
+
+
+3702. A Milestone chart
+	Akshay, 2016, What does it shows?
+	Harshit, 2016, @Akshay. $%  $% It shows Start and end point in the project.
+	Srinukota19, 2016, I think its A B C tree are correct.
+	Akshay M S, 2017, It is Significant event of a project.
+	Aloysius K, 2017, It shows expected completion  dates of specific tasks.
+	Memon, 2018, Can someone tell us the exact Answer with the explanation.
+	Biyanka, 2018, It gives the status of a group of activities in a project. That means. It shows the starting date, expected completion date, rescheduled date, the actual completion date of each group of activity which is known as a milestone. $%  $% And this milestone chart is prepared in excel sheet.
+	Rahul, 2019, In every activity there are certain key events which mark the completion of a certain portion of the main activity, these key events are Milestones. $%  $% Example- If construction of Footing is main activity then Excavation is the first milestone $% PCC laying is 2nd. $% Formwork is 3rd. $% Reinforcement 4th. $% Concreting is 5th.
+	Romi, 2019, They are tools used to mark specific points along a project timeline.
+	V V R, 2019, In a milestone, chart milestones are generally used to show the completion of different sub-activities and also the progress of a project can be shown.
+	Karan, 2021, Yes, in Milestone chart, $%  $% Greenline shows Work in time. $% Black- Intended work. $% Red- Behind schedule work. $%  $% Also shows the completion of sub-activities hence it is more advance than Bar chart. $%  $% If none of this option is correct then what's the difference between Milestone and  Bar chart? $%  $% Hence, 4th option should be All of these.
+
+
+
+3703. Completion of an activity on CPM network diagram, is generally known
+	J Singh, 2018, What is node?
+	Ganesh Guwar, 2020, @J Singh. $%  $% The activity which consumes minimum time is called nodes.
+	Yash Banode, 2020, Occurrence of an Event is represented by a Node. So roughly they mean the same.
+
+
+
+3704. A dummy activity
+	Varsha Gaikwad, 2020, Please explain in broad.
+	Umair Ahmad, 2021, A Dummy activity is a type of operation in a project network that neither requires any time nor any resource. It is an imaginary activity shown in a project network to identify the dependence among operations.
+	Umair Ahmad, 2021, Dummy activity may be critical or noncritical.
+	Yoseph, 2021, Dummy activity is non-critical activity.
+
+
+
+3705. Military organisation is known as
+	Prakash, 2016, The line organization order directly flows through the head of the organization to ground level and head of organization make decision signal with out consulting others.
+	Rahul Patel, 2016, Thanks, @Prakash.
+	Biyanka, 2018, Thank you @Prakash.
+	Umair Ahmad, 2021, This type of organizations percepts dictatorship.
+	Sunil Chaudhary, 2021, Thank you @Prakash.
+
+
+
+3706. Pick up the incorrect statement from the following:
+	Har, 2017, The activity which consumes maximum time is called critical.
+	Srinivasan, 2019, The maximum time is called a critical path.
+	Afia, 2020, Minimum time is called nodes.
+	Mahesh, 2020, Maximum time Critical Path. $%  $% Minimum time is Node.
+
+
+
+3707. Various activities of a project, are shown on bar charts by
+	Hardik Chauhan, 2017, In book of construction managemet activity of project show on hvartical line on bar chart.
+	Mahendher Reddy, 2017, What is mean by bar chart?
+	Murli Solanki, 2018, A is correct one.
+	Shainy, 2018, How it is? I thought it is vertical lines also.
+	Puspendu, 2018, A is the correct answer. I too agree.
+	Swathi. S. K, 2018, I agree with the given answer B. $%  $% The horizontal bar represent the various activities involved in a construction work. And the vertical bar represents the respective jobs to be performed. Hence B is correct.
+	Pawan Raut, 2018, A is the correct. $%  $% Vertical line - Activities Horizontal - Duration.
+	Hayat, 2019, Right @Pawan Raut.
+	Suraj Bhosale, 2019, In book vertical line represents various activities of project and horizontal line shows time.
+	Ashok Behera, 2020, Yes, A is correct.
+	Deeptikant Sharma, 2020, A vertical line shows activities and horizontal line shows time duration.
+	Umair Ahmad, 2021, First time developed by Henry Gantt around 1900 and is used to deal with complex activities. $%  $% The bar chart consists of two coordinates, the horizontal represents the time elapsed and the vertical represents the job or activities performed.
+
+
+
+3708. Time and progress chart of a construction, is also known as
+
+
+
+3709. Critical Path Net Work helps an engineer
+	Avi, 2018, How? Explain me.
+
+
+
+3710. If a is the optimistic time, b is the pessimistic time and m is most likely time of an activity, the expected time of the activity, is
+	Shivakumar, 2019, Please explain the answer.
+
+
+
+3711. The time by which activity completion time can be delayed without affecting the start of succeeding activities, is known as
+	Yehia, 2016, Without affecting the EARLY start of succeeding activities.
+	Habib Mohamned, 2017, Without delaying the start of a following activity.
+	Adarsha, 2017, Total Float. $%  $% Total float is the amount of time that an activity can be delayed without delaying the project's estimated completion time. $%  $% Total float assumes that. $%  $% All preceding activities are finished as early as possible. $%  $% All succeeding activities are started as late as possible. $%  $% Total float for an activity can be determined either: $% Total float activity n = Late start activity n " Early start activity n. $% Total float activity n = Late finish activity n " Early finish activity n. $% Where n denotes the nth activity. $% Both the equation will yield the same answer. $%  $% Free float. $%  $% Free float is the duration of time, that an activity can be delayed without delaying the project\'s estimated completion time and without delaying the start of any succeeding activity. $%  $% Free float is the property of an activity, not a network path. The Free float can be determined by: $%  $% Free float n = Minimum early start of all successor activities " Early finish n. $%  $% Where n denotes the nth activity. $%  $% Interfering float. $% The Interfering float is the time available to delay an activity without delaying the project\'s estimated completion time, but delaying an activity into interfering float will delay the start of one or more following non-critical activities. $%  $% Interfering float n = late finish n " Smallest early start of the succeeding activity. $%  $% The aggregate of free float and interfering float is equal to the total float. $%  $% Total float n = Free float n + interfering float n.
+	Rahul Mehar, 2017, Its answer should be an independent float.
+	Pawan, 2019, Thanks @Adarsha.
+	Amu Bokato, 2019, Yes, you are right @Rahul.
+
+
+
+3712. The artificial activity which indicates that an activity following it, cannot be started unless the preceding activity is complete, is known as
+	Raj, 2021, Please explain.
+
+
+
+3713. Henry Gantt developed Bar charts for planning and scheduling of projects in
+	Sunil, 2016, Actually the answer is 1910.
+	Bharat, 2018, I think the correct answer is 1905.
+	Utsav, 2018, It is 1910 - 15.
+	Sachin, 2018, Yes, the correct answer is 1910.
+	Santosh Kumar, 2019, Best Answer is 1900.  $%  $% As Henry Gantt (1861-1919), who designed such a chart around the years 1910-1915.
+	Prayas, 2020, I think it was 1917.
+
+
+
+3714. The most popular type of organisation used for Civil Engineering Constructions, is
+	Ranjeet, 2018, Option A is correct.
+	Pramil, 2018, Please explain all other options.
+	Rohan, 2019, It's Option B : Line & Staff Organisation. $%  $% 1. Line Organisations:  $% Concentrated Hierarchy with orders being followed without question from top to bottom and no questions are asked regarding mannerism or way of the process.  $% Ex. Military organisations $%  $% 2. Staff Organisations: $% Mild hierarchy with nominal power in upper level. Mostly all collegues are equal and the nature of work involves participation from all level. Very less number of times orders are given and most of times its discussion or debate based process. $%  $% Ex. Scientific Organisation (ISRO, NASA). $%  $% 3. Line & Staff Organisation : $% A mix of above two, where hierarchy is present orders are also given and most of the times they are followed but if situation demands lower management can present their views and orders can be replaced.  $% Ex. All gov Institutions like PWD, Railways, Municipal Corporations, Private Companies.
+	Ginie, 2019, Thanks @Rohan.
+	Nangi Aurat, 2019, Thank you for sharing your valuable information @Rohan.
+	Arun Kumar Mangalore, 2021, Agree, Line organization is right.
+	Mjm Gcek, 2021, Agree with the given answer. Line organization is correct.
+	Mjm Gcek, 2021, Line organization is the correct answer.
+
+
+
+3715. The difference between the time avail-to do a job and the time required to do the job, is known as
+	Dhaffod, 2018, Float =Time availed - Time Required. $%  $% Float shows the time within which you can delay an activity without affecting the overall duration of a project.
+	Y R, 2019, Thanks all for explaining.
+
+
+
+3716. The object of technical planning, is
+
+
+
+3717. The salient feature of functional organisation is
+
+
+
+3718. Critical path method
+
+
+
+3719. CPM is
+	Amruta, 2014, It should be B. $%  $% Expl:repetitive work and time estimate it deals with PERT. $%  $% PERT is concerned with research where repetitive works are done and there are three time estimates in this while in CPM there duration is given.
+	Sarit, 2018, Yes, B is the correct one.
+	Devendra Mahatha, 2021, It should be B. I agree @Amruta.
+
+
+
+3720. Critical path lies along the activities having total float
+	Rohit, 2019, Why not - ve, as it's given the first priority wrt to 0.
+
+
+
+3721. Construction team means
+
+
+
+3722. Pick up the correct network for the activities of pouring concrete, erection of form work, removal of form work and curing of concrete from the following:
+	Patrick, 2017, The correct pattern should be  $%  $% 1. Erection of form work  $% 2. Pouring concrete  $% 3. Removal of form work  $% 4. Curing of concrete.
+	Prangit Bhardwaj, 2018, Curing is the last step, so the pattern should be B) 1243.
+	Mohan Priyank, 2019, Curing may be the last step, but unless you don't remove formwork you cannot do the activity no. 4. $%  $% I agree @Patrick. $%  $% So, the correct sequence would be 1234.
+	Yet, 2020, It differs as the structure varies. $%  $% In Case of slab, removal of formwork is after curing while in column curing is after removal of formwork.
+
+
+
+3723. A construction schedule is prepared after collecting
+
+
+
+3724. Site order book is used for recording
+	Rocky, 2019, Site order book is used for recording, $%  $% (a) Instructions of the executive engineer.  $% (b) Construction measurements.  $% (c) Requisition of plants and equipment.  $% (d) Indents for materials to be ordered.
+	Opsc Aee, 2019, 70% checking by an AEE. $% 30% checking by a EE. $%  $% What ever instruction or suggestion , it has to be written on that book so that when ever inspection team come further, they can examine the difference between previous and today's work.
+
+
+
+3725. An Executive Engineer may have powers upto
+	Rekhasree, 2015, An Assistant Engineer may have power upto 25000 and for an executive engineer it is 1 lakh.
+	Anshul Thakur, 2016, Chief Engineer has full powers SE has powers upto 500000, Executive Engineer has power upto 100000, And AE has powers upto 25000.
+	Biswajit Swain, 2016, Now it is 49,999.
+	Aadi, 2016, CE has full power, SE has 5 lac, EE has 1 lac & AE has 25000.
+	Dany, 2016, I didn't understand, please tell me What's AE?
+	Sharon, 2016, @Dany. $%  $% AE- assistant engineer. I read that assistant engineer have power up to 25000. But I don't know whether it revised or not.
+	Jatin, 2017, Chief Engineer has full powers SE has powers upto 500000, Executive Engineer has power upto 100000, And AE has powers upto 25000.
+	Sourav, 2017, Now it is 5 lakh.
+	Samadhan, 2017, Yes, right @Jatin.
+	Niraj, 2017, It's is 2 lakh for the executive.
+	Archana, 2017, What is mean by power?
+	Rohit Patel, 2017, I think the correct answer is E.
+	Dimpy, 2018, The correct answer is C.
+	Ramesh, 2018, The correct answer is C. I too agree.
+	Drashti, 2018, Please explain, what does 'powers' mean here?
+	Pawar Santosh Kumar, 2018, Executive engineer power upto 1 lac. So option C is absolutely correct.
+	Shaizan, 2018, CE full power, up to SE full power, EE OR DE upto5lacs, DISTRICT Engineer or SDO up to 50000, AE up to 20000. $%  $% Ref: BN DUTTA BOOK.
+	Rumpi, 2018, CE - full power. $% SE -5 lac. $% EE - 1 lac. $% AE - 25000
+	Sunil Kumar K S, 2019, Cheif Engineer: Ful Power. $% Superidnt Engineer: 50.00 Lakhs. $% Executive engineer: 10.00 Lakhs. $% Assistant Executive Engineer: 2.00 Lakhs.
+	Om Prakash Singh, 2019, CE-FULL, SE-25LAC, EE-10LAC, AEE-2LAC, AE-25000.
+	Bdk, 2019, What about JE?
+	Nouman Khan, 2019, What is mean by power here?
+	Biradar, 2019, For; $%  $% AE - 25000.   $% EE - 100000.
+	Arasu, 2019, CE and SE having the full power of the project. The ee power 500000.
+	Anand, 2019, Please explain the answer.
+	Pranav, 2019, CE - All powers. $% SE - Upto 15 lakhs (Superintending engineer). $%  $% EE- Upto 5 Lakhs. $% ( Source estimation and costing by BN DATTA).
+	Faheem, 2020, CE-Full powers, SE-5 LAC, EE- 1lac and AE- 25K. $%  $% REF, R.S Khurmi, G.k gupta.
+
+
+
+3726. The main principle of an organisation, is
+	Yehia, 2016, What is cohegency?
+	Sourav, 2017, What is Cohegency?
+
+
+
+3727. The estimated time required to perform an activity, is known as
+
+
+
+3728. A CPM family includes
+	Kishan D Datta, 2017, We know that CPM is critical path method  so we analysed critical path (longest path which have 0 float), by using the CPM method  we determine the flot by using EST, EFT, LST, and LFT so we drow critical path with using 0 float, we also determine minimum cost to using critical schedule, and we also determine critical scheduling by observing critical path like how many days are available and how many actual days we have.
+
+
+
+3729. The time which results in the leasi, possible construction cost of an activity, is known
+	Avinash, 2017, What is meant by leasi?
+	Rahul, 2017, I think it is least.
+	Sanjeev Rai, 2017, The answer should be a normal time.
+	Narayan Adhikari, 2017, The answer should be normal time.
+	Uttam Baral, 2017, Yeah, it's should be A.
+	Avinash, 2017, Yeah, definitely it's normal time.
+	Aditya, 2018, Std time for completing an activity is normal time and least time required is the crash time.
+	Roy, 2018, Yes, it's crash time.
+	Pramod Yadav, 2018, Crash time is the least time for construction. So it's B.
+	Bharat, 2018, For least cost time is slow, $%  $% For normal cost, it is Normal time.
+	Rahul, 2018, It's should be a normal time.
+	Ashu, 2018, Crash time is min time in which we employ extra resources so it's cost increases. $%  $% Hence normal duration is answer.
+	Saork, 2019, Answer is optimum duration/time but not given in option.
+	Beroj Gar, 2019, Optimum duration means standard time. $%  $% So, the correct Answer is D.
+	Saroj, 2019, If we slow activities cash flow is minimal so B could be right answer.
+	Ajay, 2019, In this question, mention that least possible construction cost of an activity so that would be answer Normal time.
+	Kishan, 2019, Options are wrong correct answer is optimum time which lies between crash time and normal time.
+	Dipunku, 2020, Crash time because it shows some possibilities to reduce cost.
+	Dev, 2021, I tgink it should be optimum time.
+	Durgesh Prashad, 2021, As per graph between Direct Cost and Time, the Normal time is the least time corresponding to Normal Cost which is again minimum.
+	Umair Ahmad, 2021, A least-cost schedule is one with optimum project duration such that to lengthen or shorten it would Increase the project total cost.
+	Mjm Gcek, 2021, Agreed @Kishan.
+	Subha Prakash Sahoo, 2021, There is no any concept of a slow time for normal time cost is normal cost least cost occurs at the optimum time only.
+
+
+
+3730. If the total float and duration of an activity are 5 and 10 days respectively, the particular activity can be
+	Tinku, 2016, Please explain this clearly.
+	Dvd, 2017, Total float = LFT-EFT=LST-EST.
+	Abhishek Roy, 2017, Total float = LFT - EST - DURATION.
+	Priyakarthik, 2018, Not understand the solution. Please explain in detail.
+	Loai, 2018, Let's say that we have two activities A, and B. However, activity A has 10 days duration that means " without considering the float "activity A has 10 days to complete and must start on time to finish within its duration 10 days. $%  $% Now, with Total float, activity A has 5 days before starting this means "activity A still has extra time to start late. Because this will not affect the completion date since we talk about " Total float " Not Free Float " so option A is correct. Accordingly, starting 5 days late this will result in complete after 15 days " 10+5 days" this will lead to option C which is correct as well. Finally, activity A has 10 days +5 days this means, in case A started after 10 days. You still have 5 days to complete on time. Which lead to Option B.
+	Amit, 2018, Let's say that we have two activities A, and B. $%  $% However, activity A has 10 days duration that means " without considering the float "activity A has 10 days to complete and must start on time to finish within its duration 10 days. $%  $% Now, with Total float, activity A has 5 days before starting this means "activity A still has extra time to start late. Because this will not affect the completion date since we talk about " Total float " Not Free Float " so option A is correct. Accordingly, starting 5 days late this will result in complete after 15 days " 10+5 days" this will lead to option C which is correct as well. Finally, activity A has 10 days +5 days this means, in case A started after 10 days. You still have 5 days to complete on time. Which lead to Option B.
+	Abhishek, 2019, Total float is the amount of time of an activity which doesn't affect the estimated completion of the period of activity. $%  $% Here 10 days are available for completion of an activity. $%  $% The total float is 5 days. Means in 10 days 5 days can be a delay which doesn't affect the completion time of activity. $%  $% Here answer will be started 5 days later.
+	Abhi, 2019, @Amit @Loai. $%  $% Total float means the time that can be a delay which doesn't affect the estimated completion duration.
+	Pawan, 2019, Thanks for explaining @Loai.
+	Umair Ahmad, 2021, I think both option A and C are correct.
+
+
+
+3731. Works costing less than Rs. 20,000 are treated as
+	Sahil Salvi, 2017, Petty work = <2500 /- $% Minor Work = 2500-20000 /- $% Major Work = 20000-100000 /- $% Project = > 1 lac.
+	Faraaz, 2020, Petty work<20, 000. $% Minor work=20, 000-100, 000. $% Major work>100, 000. $% So the answer is petty work. But according to option, minor work is correct.
+	Endu, 2020, @Sahil Salvi. $%  $% What is 'lac', please give detail info.
+	Bhagwan Singh, 2021, @Endu $%  $% LAC means >100000 RS.
+	Muruganantham, 2021, Petty work = <2500 or <20,000. $%  $% So which one is the standard price for Petty?
+	Scorp, 2021, If petty work is less than 20k. Then how it's option C?
+
+
+
+3732. A critical ratio scheduling
+	Yehia, 2016, What is critical ratio scheduling?
+	Rita, 2017, Why not 'A'? $%  $% As it is used to determining the priorities of various jobs?
+	Rita, 2017, Why not 'A'? $%  $% As it is used to determining the priorities of various jobs?
+	Gyan, 2017, I too think A is the right answer.
+	Abiral, 2017, A is correct. I also agree.
+	Rajeshsharma, 2017, A is the correct Answer.
+	Suresh Chaudhary, 2017, I think A is the correct answer.
+	Ravismurnal, 2017, How ? please explain.
+	Har, 2017, Critical Ratio = Schedule Performance Index  x  Cost Performance Index. $% CR = SPI x CPI.
+	Sabin, 2018, What is critical ratio? explain anyone.
+	Somali, 2019, Here, A is the correct answer.
+	Bhavik, 2019, The technique for establishing and maintaining priorities among the various jobs of a project is known as? $%  $% Please tell me the answer.
+	Prakash, 2019, A is the correct option.
+	Naveen, 2019, I think answer A is correct.
+	Romi, 2019, Critical Ratio (CR) = Time remaining before due date/Remaining processing time.
+	Amrit, 2019, Absolutely right, A is the correct answer. I too agree.
+	Vinu Mohandas, 2020, The critical ratio help in most production scheduling system :. $%  $% Determine the status of specific job. $%  $% Establish relative priority among jobs on a common basis. $%  $% Relate both stock and make-to-order jobs on a common basis. $%  $% Adjust priorities (and revise schedules) automatically for changes in both demand and job progress. $%  $% Dynamically track job progress and location.
+	Dipu Bunku Rose, 2020, A is the correct answer.
+	Beki, 2020, I think A is the correct answer.
+	Hima, 2021, Critical Ratio Scheduling is the Technique for establishing & maintaining priorities among the various jobs of a project. $%  $% Hence option A is correct.
+
+
+
+3733. Bar charts are suitable for
+	Shubham, 2018, I think Petty work is the right answer.
+
+
+
+3734. The first method invented for planning projects, was
+	Anushka Patil, 2017, Bar chart method - 1900. $% Milestone chart -1940. $% CPM - 1957.
+	Yugareddy, 2019, What about PERT?
+	Obaid Khattak, 2019, PERT 1950.
+
+
+
+3735. If TL is the latest allowable event occurrence time, total activity slack(s), is equal to
+	Har, 2017, LST=LATEST FINISH TIME. $% EST=EARLIEST FINISH TIME. $% LFT=LATEST FINISH TIME. $% EFT=EARLIEST FINISH TIME.
+	Adarsha, 2017, Latest allowable event occurance time=Latest Finish Time.
+	Fawaz, 2018, LST/LAST START TIME. $% EST/EARLIEST START TIME. $% LFT/LAST FINISH TIME. $% EFT/EARLIEST FINISH TIME.
+	Romi, 2019, Late start - early start. $% Late finish - early finish. $% Latest allowable event - early finish. $%  $% Total slck can be + or -ve. $%  $% Total slack is the amount of time the whole project can be delayed without pushing the end date of the project. This is calculated by using early and late starts and early and late finishes for tasks. Total slack is calculated as the smaller value of the late finish minus the early finish when compared to early start minus the late start.
+	Hamza, 2020, What is TL here?
+	Yash Jain, 2020, Time least(TL) for an activity. @Hamza.
+
+
+
+3736. The Overall in-charge of an organisation at the site responsible for the execution of the works, is
+	Tinku, 2016, Answer is not clear. Please explain it.
+	Shuvro, 2016, I think it is A.
+	Anup, 2017, Executive Engineer is overall incharge at a site. So answer is A) Executive Engineer.
+	R B Shrestha, 2017, The executive engineer is the first point of contact for all the engineers and assistant engineers. He or she generally supervises the work of engineers and assistant engineers and guides them whenever necessary. $%  $% So, I think the answer is b.
+	Som Deb, 2017, Answer should be A.
+	Rana, 2019, I think the correct answer is Chief Engineer.
+	Umesh, 2019, It will be Junior engineer.
+	Bidthal Karmacharya, 2019, I think it should be A because whenever problem arise at site, it should be defend by Executive Engineer to the top management.
+	Opsc Aee, 2019, The given answer is right.  $%  $% 1. Because here nothing mentioned that is it a pvt or govt organisation. $%  $% 2. If discuss, There are also some works where JEs or you can say SDOs are the higher authorizes. $%  $% So may be the given ans is true in my point of view, if mistaken then sorry for my above description.
+	Jay, 2020, Please explain the difference between engineer vs executive engineer vs assistant engineer?
+	Durgesh, 2021, Here, Engineer means Executive Engineer if nothing is given.
+	Engineer, 2021, It should be site engineer.
+
+
+
+3737. Modular co-ordination of construction means proper
+
+
+
+3738. Pick up the correct statement from the following:
+	Rishu Raj, 2018, How is option D possible? Please explain.
+	Befkadu, 2018, Thank you all for explaining this.
+	Kalloljit, 2020, D is not correct. PERT considers Time as directly proportional to cost.
+	Pawan, 2021, How is option D is possible? Please explain clearly.
+
+
+
+3739. If t is the duration of an activity, t1 is the latest finish possible moment of its preceding activity and t2 is the earliest start possible moment, the independent float of the activity is
+	Yehia, 2016, What is independent float of the activity?
+	Saima, 2017, The independent float is the excess of minimum available time over the required activity duration.
+	Sachin, 2017, The correct answer is t2-(t+t1).
+	Getachew, 2018, How to solve this? Explain me.
+	Hariram Rimal, 2019, Here Ej-Li-d. $% So, (t2-t1)-t.
+	Guriya, 2020, (LS-Es)-di = independent float. $% So A option is correct.
+	Lokanath, 2021, I think here it is (t2 - t1) - t.
+
+
+
+3740. Pick up the correct statement from the following:
+	Kalloljit, 2020, Shouldn't it be Latest Finish Time be taken as Contractual Obligation time? Explain please.
+
+
+
+3741. For the supply of materials for concrete, form work reinforcing and placing of concrete, removal of form work and curing of concrete, number of bar(s) required on bar chart, is
+	Sume, 2015, That is reinforced cement concrete.
+	Sufajo, 2018, But some item in DSR, formwork exclude.
+	Denny, 2018, 1 bar for supplying of a material.
+	Rohit, 2019, Everyone consumes time so there will be 5 bars.
+	Ali, 2019, It depends, 1 is not an absolute answer.
+	Guriya, 2020, 1 is absolutely correct answer because, the overall work is concrete work i.e. materials for concrete, formwork reinforcing, removal of formwork and curing of concrete so all the works are concrete work so option A is correct one.
+	Dipu Bunku Rose, 2020, Given answer is wrong. It should be 5. Total 5 activities.
+	Sankar, 2020, Right. Thanks@Dipu Bhuku rose.
+	Harsh, 2020, Right @Guriya. $%  $% The correct option is 1, Since everything is related to concreting work.
+	Sagar Meghani, 2020, @Dipu. $%  $% Here is a bar chart & we know that the bar chart is didn't shown the sub-critical activities.
+	Lolla Odeh, 2020, I think the correct answer is 4 cause we have 4 activity each activity need some times to do it.
+
+
+
+3742. For the execution of a project, a contractor is
+	Guriya, 2020, A person or firm or an agency that undertakes a contract to provide materials or labour to perform a service or do a job.
+
+
+
+3743. Railway projects are treated as
+	Mamai, 2019, Railway construction is heavy project because machines and skilled people are required for assembling the metals to come up with rail path.
+
+
+
+3744. Pick up the correct statement from the following:
+
+
+
+3745. The critical activity has
+	Priyakarthik, 2018, I think it is A.
+	Bharat, 2018, Yes, it is a maximum float.
+	Sagar, 2019, C is correct, A critical path is the longest duration for the completion of a project. It is the path connected by all the critical activities. A critical activity cannot be delayed as delay in critical activity will increase the project completion time therefore critical activity or critical path have zero float or slack.
+
+
+
+3746. The main disadvantage of line organisation, is
+	Suds, 2020, Line organization is a flexible structure. $% Decisions are made real quick. $% Top-level executions overload occurs. $%  $% So, the answer must be "C".
+
+
+
+3747. Pick up the correct statement from the following:
+	Romi, 2019, Critical path. $%  $% It is the sequence of critical activities, which decide the total project duration. A critical path consumes maximum resources. It is the longest path and consumes maximum time. It is the one, which connects the events having zero minimum float.
+
+
+
+3748. Pre-tender stage requires
+	Khuram, 2020, Please explain the answer in detail.
+
+
+
+3749. The final selection of a construction site, is done by
+
+
+
+3750. Pick up the correct statement from the following:
+	Anomies, 2018, Give an Explanation for the answer.
+
+
+
+3751. The first stage of a construction, is
+	Vikas Singh, 2017, It's very necessary to have first of all what kind of construction we have to do then we can go for further process.
+	Pavan, 2020, The Order will be ; $%  $% C D A E B.
+
+
+
+3752. PERT is
+
+
+
+3753. Residential buildings are treated as
+
+
+
+3754. The main advantage of line organisation, is :
+	Subha Prakash Sahoo, 2021, How it should also be D? Explain the answer.
+
+
+
+3755. PERT analysis is based on
+
+
+
+3756. For completion of a project, the critical path of the network represents
+	Vrushik, 2014, How? I think the answer is B. As the total time in critical path is maximum.
+	Navin, 2015, Correct answer option B, because critical path is the longest path.
+	Rajesh, 2015, Me to confused the answer must be B.
+	Santosh, 2016, Surely the answer should be B. maximum time.
+	Rajashekhar Hallur, 2016, Yes, its maximum duration of activities and hence its maximum time.
+	Robert, 2016, Well, I think the gist of the question here is for completion of a project, thus making the critical path the minimum time possible.
+	Prateek Bansal, 2016, CPM is based on cost optimisation, so the answer may be minimum cost.
+	Gunna Satish, 2016, Answer is wrong. Correct answer is maximum time.
+	Samson Kp, 2016, The critical path is the longest duration path through a network diagram and determines the shortest time to complete the project. $%  $% Therefore the answer is option A.
+	Anonymous, 2016, The answer is correct. No doubt that critical path is always taken as the maximum time taken but it signifies that all the activities will be finished in that time and for the project to be considered as complete that time will be minimum.
+	Deep, 2016, The critical path can be defined in many ways including: $%  $% - The longest path in the network diagram, or $%  $% - The shortest duration in which the project can be completed. $%  $% So answer (a) is correct.
+	Baloch, 2016, CP consumes maximum resources and time. $%  $% Hence it's longest.
+	Jayant, 2017, Answer A is completely and absolutely true.
+	Brahvi, 2017, Answer is correct. $%  $% The Critical path has the longest duration but because of zero slacks which determine the shortest time possible to complete the project.
+	Upendra, 2017, I think Option A is correct.
+	Samadhan, 2017, Hello, everyone. $%  $% C.P.M. Consume maximum resources, It the longest path & consume maximum time. The slack or float may be positive, negative or zero. You know if project beyond this critical situation definitely it fails that means there is such route designated you can take maximum time to complete your project but not go beyond. (friend tell me if it consuming max. Resources then how could it completed in minimum time). $%  $% Option (b) is correct.
+	Revathi, 2018, Option A is correct. I agree with the given answer.
+	Tekendra, 2018, I think the correct answer is B.
+	Utsav, 2018, B is correct. $%  $% Other routes may be short but won't complete the work.
+	Uttu, 2018, You can't complete the project in time less than critical time. $%  $% So it's the minimum time you need even if you provide more resources. $%  $% A is correct.
+	Himal, 2019, The right Option is A.
+	Lokesh Aggarwal, 2019, Critical path shows the maximum time so that all the activities have sufficeint time to be completed.
+	Pawan, 2019, The right option is A. Because no time for delay in critical path.
+	Naveen, 2019, Answer will be B time taken along critical path is always maximum.
+	Sunil, 2019, The Corrct Answer is A. Though CP is the longest time in any series of activities. When the activities are completed, for that project, the completion time is the minimum time required for the project to complete.
+	Khaled, 2019, The critical path has the longest duration more than any path in the diagram so the correct answer is B.
+	Amrit Kshetri, 2019, Answer A is correct in a sense that at least that amount of critical time is required for the project to complete and the project can't be completed shorter than that time. So critical time is the minimum possible time.
+	Abdul Muttalib Baloch, 2019, Critical path is the longest and consumes maximum resources and minimum time.
+	Ashfaq, 2020, The critical path is longest path consumes max time and resources so option B is correct. $%  $% Source khurmi book.
+	Kdm, 2020, Critical path is the longest path gives the short duration.
+	Rajib, 2020, In project management, a critical path is the sequence of project network activities which add up to the longest overall duration, This determines the shortest time possible to complete the project. $%  $% So, the Answer is A.
+	Bhavish, 2020, The critical path is the longest path time-wise, is true. But the question is. $%  $% 'For completion of a project' so the answer is option A. Because no matter how many resources you put in, you cannot complete the project within the critical path. The critical path is the MINIMUM time in which you can complete the project along the longest path.
+	Ram Udgar Sah, 2020, Obesley critical path is longest path but it does not consume max time beacuse length of arrow of activity is not drawen in any scale it is indpended of length of arrow. And also the objective of introducing critical path is to menimise the cost of project. If time increase than cost increase directly.
+	Pravin, 2020, Thank you so much @Deep.
+	Deepak Aryal, 2021, Minumum time and longest path is the correct answer because we have to choose the longest path so that we can finish in minimum time. This may sound odd but this is the real answer.
+	Gagandeep, 2021, The path which consumes maximum time resources is critical but in the projection, it is actually the MINIMUM time required to execute the project. $%  $% The question is asked in this way. $%  $% So, the Correct answer is definetly option B.
+	Subha Prakash Sahoo, 2021, Critical path is the network of critical activities and less than the critical time the Project can't be completed and without critical activities project can't be completed thus in a network Critical path is the longest path but it indicates Minm time to complete a project.
+	Ashutosh, 2021, Answer a is correct. Because critical time wise the longest path but it has minimum duration to complete the whole project.
+
+
+
+3757. In CPM analysis,
+
+
+
+3758. A goiden rule for the procurement of construction stones, suggests
+	Priyanka Shah, 2019, Please explain the answer.
+	Haroon, 2019, Procurement of materials for a construction site is about (2/3rd) of material stored at the site itself and (1/3rd) of material is procured somewhere else.
+	Opsc Aee, 2019, 70% material must be available at site, rest 30% we can procure. If it imbalanced then cost of the project and completion of the project will directly affect. $%  $% Its can vary for building construction but the rule must follow in road construction.
+
+
+
+3759. Power stations are generally treated as
+	Ajay, 2018, How? explain the answer.
+	Usman Ullah Wazir, 2020, I think it must be electical constraction.
+	Atiq Rehman, 2021, I think it's Heavy construction, as it is not a manufacturing thing that we can touch.
+	Jahangir Abbas Sahil, 2021, Railway -  Heavy Construction. $% Residential Building - Light Construction. $% Power Station - Industrial Construction.
+
+
+
+3760. An event is indicated on the network by a number enclosed in
+	Ashwin, 2015, Event is indicated by circle in AOA method isn't it? Please explain the above answer choice.
+	Sum, 2016, You can mention it by any shape. There is no particular rule.
+	Jayraj, 2018, According to me, a triangle is the right answer.
+
+
+
+3761. Pick up the incorrect statement from the following:
+	Gyan Chaudhary, 2018, Option C is incorrect I think.
+	Lokesh, 2019, Yes, Option C is the incorrect definition.
+	Hamza, 2020, No, option C is correct. $%  $% The formula of Total float is: $% TF=LF-EF or LS-ES. $%  $% Here, $% TF: Total float. $% LF: Latest finish time. $% EF: earliest finish time. $% LS: Latest start time. $% ES: Earliest start time.
+	Subha Prakash Sahoo, 2021, Actually, option D is wrong because in the case of free float it is the maximum time that can be delayed without affecting the start of the successor activity. $%  $% Thus it is Est of successor-Est of predecessor-duration.
+
+
+
+3762. While scheduling a project by C.P.M.
+
+
+
+3763. Pick up the correct statement from the following with regards to C.P.M. network analysis of projects
+
+
+
+3764. Pick up the correct statement from the following:
+	Kalloljit, 2020, What is pass here? Please explain me.
+
+
+
+3765. Which one of the following represents an event ?
+	Yehia, 2016, Why only concrete cured?
+	Nikesh Reddy, 2017, Why not plastering?
+	Monu Malik, 2017, Because concrete cured is a process[event]. Remaining options are activities.
+	Dvd, 2017, Activity means repititive in nature.
+	Mukesh Dedage, 2017, When activity starts or end is called event. $%  $% Concrete cured i.e. Activity ends.
+	Nilraj, 2018, Correct, Thanks @Mukesh.
+	Makar, 2019, Concrete cured provides adequate moisture, temperature, and time to allow the concrete to achieve the desired properties for its intended use.
+	Arun, 2019, Thanks for explaining.
+	Vilash, 2019, Event means an ongoing thing. $%  $% Concrete cured : The work is done/ the event is done. $%  $% Concrete cured represents the job done/ finished event. $%  $% Am I right? Please tell me.
+	Vilash, 2019, All the three expect concrete cured becomes activity.
+	Srujan C Gowda, 2019, If it would have been Curing then it would have been activated.  $% Cured indicates (past tense = finished). $% Any start(S) or finish(F) of an activity is an Event. $%  $% (S)----- Concrete Curing----- (F).
+	Upahar, 2020, All Past verbs mean Events like Cured, Plastered, Excavated because the work is completed which means an event.
+	Subha Prakash Sahoo, 2021, So, any action that is in continuation is called activity and that already has been completed is called an event.
+
+
+
+3766. Pick up the incorrect statement from the following:
+	Santosh, 2019, C is also incorrect. $%  $% Report should be as per completed work not as per approximate %.
+	Kalloljit, 2020, I think A is also incorrect.
+
+
+
+3767. For the network shown in the given figure, the expected time for the activity 
+	Annepu Viswanth, 2016, [3 + (4 * 4) + 5]/4 = 4. $% [5 + (4 * 7) + 9]/4 = 7. $% [6 + (4 * 8) + 10]/4 =8. $%  $% There fore A, B, C are correct i.e., option D is the answer.
+	Annepu Viswanth, 2016, [3 + (4 * 4) + 5]/4 = 4. $% [5 + (4 * 7) + 9]/4 = 7. $% [6 + (4 * 8) + 10]/4 =8. $%  $% There fore A, B, C are correct i.e., option D is the answer.
+	Annepu Viswanth, 2016, [3 + (4 * 4) + 5]/4 = 4. $% [5 + (4 * 7) + 9]/4 = 7. $% [6 + (4 * 8) + 10]/4 =8. $%  $% There fore A, B, C are correct i.e., option D is the answer.
+	Pawan, 2017, Its [3+4 * 4+5] &div; 6 =4. $%  $% And accordingly others will be calculated i.e. 7 & 8 respectively.
+	Roco, 2018, (ta+4tm+tp)&div;6 is the formula.
+	Lalitha, 2019, Right (ta+4tm+tp)/6  is the formula.
+	Muhammad Junaid Michaelson, 2020, @Lalitha. $%  $% You're 100% right. In the Denominator its is "6" NOT "4".
+
+
+
+3768. Frequency distribution curves
+	Subha Prakash Sahoo, 2021, That's why PERT follows B distribution and CPM follow normal distribution.
+
+
+
+3769. Pick up the correct statement from the following:
+	Chitra, 2019, Option C & D is same please explain the correct answer.
+	Hardik, 2019, PERT is event orinated. $%  $% CPM is Activity orinated.
+	Opsc Aee, 2019, PERT :- $%  $% Event Oriented. $% Probabilistic approach. $% Suitable for new project. $% 1950. $% Beta Curve. $%  $% CPM :- $%  $% Activity oriented. $% Deterministic approach. $% Suitable for repetative work. $% 1957. $% Normal distribution curve.
+
+
+
+3770. The three time estimates for the activities of the network shown in the given figure are shown above their arrows. The earliest expected time for the event 4, is 
+	Zahid, 2013, Using PERT formula for each activity. Add the value obtained to get 19. $%  $% Activity 1-2  => (3+(4*4)+5)/6 = 4. $%  $% 2-3 =>(5+(7*4)+9)/6 = 7. $%  $% 3-4 => (6+(4*4)+10)/6 = 8. $%  $% 4+7+8 = 19.
+	Bhai, 2016, Nice @Zahid.
+	Subha Annadurai, 2018, According to me, 3-4=>(6+(8*4)+10)/6 = 8.
+	Uttu, 2018, @Subha. $%  $% Activity 4 cannot be started without activity 1 2 & 3. $%  $% So, 19 is correct.
+	Dev Kumavat, 2018, Thank you @Zahid.
+	Lalitha, 2019, Nice explanation. Thank you @Zahid.
+	Sabina, 2020, @Zahid. $% Activity 3-4 calculation is wrong by;  $% Expected time= 6 + 4 * 8 + 10/6 = 8.
+
+
+
+3771. Optimistic time, most likely time and pessimistic times for the activities of a network in the given figure are written above their arrows. If the contractual obligation time for the project is 75, the latest occurrence time for the event 2, is 
+	Naveen B, 2015, {Op time + (4 * Most lik time) + pess time}/6. $%  $% i.e {15+(4*28)+21}/6 which is equal to 24.6666 = 25.
+	Rituraj, 2015, Is this is possible that pessimistic time can be less than optimistic time? Please answer this.
+	Amjad, 2016, Then what is the contractual obligation 75 and latest occurrence is 2?
+	Amjad, 2016, Then what is the contractual obligation 75 and latest occurrence is 2?
+	Amjad, 2016, Then what is the contractual obligation 75 and latest occurrence is 2?
+	Pranab, 2016, It is considering 1-2, the contractual obligation 75 and latest occurrence is 2. It is considering latest occurrence 1-2. $%  $% {PT + (4 x MLT) + OT}/6. $% i.e {15+(4x28)+21}/6 which is equal to 24.66. $%  $% But, contractual obligation 75, $% From event 1-2, 2-3, and 3-4 total 3 duration time,  $% so, time duration to reach 1-2 is 75/3 = 25, $% 25>24.66. $% Due to contractual obligation, the time will be the greater one  $% Ans = 25.
+	Kajal Tomar, 2018, Latest occurrence time calculated from backward pass method. $%  $% Therefore  TL of event 4 is 75 given; $% Now( 75- (TE of 3-4) - (TE of2-3)), $% TE =( opt time + 4 *most lik time + pess time) /6. $% 75 - (15) - (35) = 25 i.e  TL of event 2  i.e asked.
+	Dan, 2018, You are right @Kajal Tomar.
+	Akhila, 2019, Thanks @Kajal Tomar.
+	Sadulla, 2020, Right, Thanks @Kajal.
+	Hassan, 2021, @Kajal Tomar:. $%  $% What is TL here? Explain please.
+	Assumi, 2021, For latest occurence time, backward pass method is used and for earliest expected time, forward pass method is used.
+	Assumi, 2021, @Hassan. $%  $% TL is the latest occurrence time.
+	Dhwani, 2021, Yes, Agree @Kajal.
+
+
+
+3772. While filling the tender for any work, the contractor considers
+
+
+
+3773. The threshold markings are
+
+
+
+3774. The bearing of the longest line of a wind rose is S 45° E, the bearing of the runway will be numbered
+	Sri Ganesh, 2015, How to calculate?
+	Merin, 2015, Divide its magnetic heading by 10, round it to the nearest whole number and you will usually get the runway number.  $%  $% For example, if the magnetic heading is 345° then 345/10 = 34, 5. $%  $% So the runway number will be 35 which will be a runway used for landings (and takeoffs) to the north.
+	Sahana, 2017, How it is 13 and 31? Explain it.
+	Prabhu, 2017, S 45° E means 90 + 45 = 135 135/10 = 13.5 so its nearest value 13 and 360-45=315 315/10= 31.5 near value 31.
+	Varun, 2018, Thank you for explaining it.
+	C. Sougoumarane, 2018, The difference between the runway number is always 18.
+	Raj Kumar Budha, 2018, How to solve this? Please explain.
+	Sameer Sopori, 2018, @Sahana. $%  $% The direction for both numbers 13 and 31 will be the same, $%  $% Just draw a line with 130° clockwise, and then draw the line 310°. You will see both are in the same direction in two opposite coordinates.
+	Jegan, 2018, Thank you @Sameer.
+	Priyakarthick, 2019, Why we dividing it by 10?
+	Subhash, 2019, Why we divide it with 10?
+	Shanmugam, 2020, The bearing of the longest line of a wind rose is S 45° E, the bearing of the runway will be numbered.
+	Kamlesh Joshi, 2021, Runway numbers are determined by rounding the compass bearing of one runway end to the nearest 10 degrees and truncating the last digit.
+	Sunil, 2021, Why to subtract 360 -45°?
+	Sunil, 2021, Why to subtract 360 -45°?
+
+
+
+3775. For the proposed runway stated in if the aerodrome reference temperature is 17°.2, the net designed length of the runway is
+	Kamal, 2015, How 2816?
+	Prabesh Mahatara, 2015, How Please calculation by processing?
+	Aparna, 2015, Am I correct? $%  $% The actual runway length= 2,000 m. $%  $% Temperature correction: $%  $% 1 degree --> 1%. $%  $% 17 degree--> 17% extra. $%  $% Corrected runway length = 2000+((17/100)*2000) = 2340 m. $%  $% But how the answer is 2816 m.  $%  $% Can anybody explain it?
+	M.Farooq, 2017, Please define the answer clearly.
+	Satya, 2017, @Aparna. $%  $% How you have taken actual value as 2000m & temperature correction as 1 degree? $%  $% Can you clarify me?
+	Viral Kohli, 2017, @Satya. $%  $% For every degree rise in temp 1% temperature correction is to be applied IRC recommendation.
+	Tanuj Agarwal, 2017, The data in the question is insufficient.  $%  $% 1. Basic Runway length is missing. $% 2. Elevation of the airport above MSL is missing.  $% The rise in temp at the particular elevation= [ART- {15-(0.0065*elevation)]. $% The corrected runway length would be = basic runway length+ [rise in temp*Basic length/100].
+	Anjila Bhatta, 2018, @Aparna,  $%  $% 1% per 1 degree rise in temperature above airport standard temperature of 15°, so basically it should be around 2%.
+	Anjila Bhatta, 2018, "The length of a runway under standard atmospheric conditions is 2000 m. If the actual reduced level of the site is 1200 m, if the aerodrome reference temperature is 17.2, the net designed length of the runway is" is the actual question.
+	Ranku Biswas, 2019, @Anjila. $%  $% The above question is incorrect and data is missing.  $%  $% After considering your question the combined correction for both temperature and elevation is 2534.4 which is 40.8% of basic length. And that's an error as per ICAO. Remodelling should be done.
+	Navya, 2020, The standard length for larger aircraft is 2400 and for light - 1800. $%  $% 17.2 degree. $% 2400 * 0.172 = 412.8. $% 2400 + 412.8 = 2812.8.
+	Raushan, 2020, Great, thanks @Navya.
+
+
+
+3776. Pick up the correct statement from the following:
+	Aparna, 2015, Can anybody explain this? What is powder loading?
+	Anjila Bhatta, 2018, Wind loading = Gross weight of aircraft/ wing area. $%  $% Power Loading = Gross weight of aircraft/ Total HP of engine.
+
+
+
+3777. Pick up the correct statement from the following:
+	Sunilkumar Jasti, 2017, Please Explain this question.
+
+
+
+3778. The lift off distance is the distance along the centre of the runway between the starting point and
+	Dambar, 2017, I think the correct answer is option C.
+	Atik, 2017, Yes, option C is the correct answer.
+	Tanuj, 2017, Option C and D can be interchangeably used for taking off distance. 10.7m is generally the screen height that has to be attained by the aircraft before leaving the airport premises. The point where the entire takeoff velocity is obtained such that the thrust is equal to the weight of the aircraft, the aircraft becomes airborne and that is the take off distance. Lift of distance is where the nose of the aircraft is lifted off the ground so it can be the end of a runway.
+	Murali, 2017, Option C is correct.
+	Nithesh, 2019, Option c is correct. I too agree.
+	Rafeeq, 2020, Option C is the correct answer.
+
+
+
+3779. Pick up the correct statement from the following:
+
+
+
+3780. The runway orientation is made so that landing and take off are
+	Sudip, 2020, How is this against the wind direction? Can someone explain?
+	Anomiii, 2021, How takeoff against the wind?
+
+
+
+3781. An aircraft is flying in an atmosphere of 30°C with a speed of 1260 km ph. Its speed is known as
+	Pooj, 2017, How it is considered? Please explain it.
+	Devendra Singh, 2017, How sonic speed? please give full description.
+	Chhaya, 2017, Sound speed is 1235 km/h on 20C if speed is around that speed called sonic speed. $%  $% Below that Subsonic. $%  $% More then That Supersonic. $%  $% 5 times more then that called hypersonic.
+	Tanuj, 2017, The formula to find the speed of sound in air is as follows: $% v = 331m/s + 0.6m/s/C * T. $% Here T=30deg. $% v=350m/s or 1257 kmph almost equal to 1260kmph. can be said sonic.
+	Aditya, 2019, Right @Tanuj.
+
+
+
+3782. According to I.C.A.O. the slope of transitional surface at right angles to the centre line of runway, is kept
+	Prerna, 2019, What is the full form of I.C.A.O?
+	Rohit Raj Singh, 2019, ICAO ---> The International Civil Aviation Organization.
+
+
+
+3783. The depressions and undulations in the pavement, are caused due to
+	Biden, 2020, Punching effect means what?
+
+
+
+3784. Pick up the incorrect statement from the following:
+	Akheram, 2014, In three engine aeroplanes, two engines are placed on both wings and one engine is placed in the nose of the aircraft.
+	Santosh, 2018, Answer D is correct.
+	Rabindra, 2018, Right @Santosh. $%  $% Opt D is the correct answer.
+	Srijana, 2021, Engine is not placed in the tail. So the incorrect option is C.
+
+
+
+3785. Pick up the correct statement from the following:
+	Gyan, 2018, How option C is correct? $%  $% When wind is blowing in the direction of flight air speed is ore than crushing speed.
+	Lav Yadav, 2020, Here, above two options are right but option c is wrong. $%  $% Because. Air speed = crushing speed + wind speed along flight direction.
+	Koshy Panicker, 2020, Airspeed is the vector difference between the ground speed and the wind speed. On a perfectly still day, the airspeed is equal to the ground speed. But if the wind is blowing in the same direction that the aircraft is moving, the airspeed will be less than the ground speed.
+
+
+
+3786. Airport elevation is the reduced level above M.S.L. of
+	Amal Zad, 2019, What is M.S.L?
+	Ateeb, 2019, MSL - Mean Sea Level.
+
+
+
+3787. The reduced level of the proposed site of an air port is 2500 m above M.S.L. If the recommended length by I.C.A.O. for the runway at sea level is 2500 m, the required length of the runway is
+	Aisha, 2016, How?
+	Mandy, 2016, 2500+2500(0.07/300) = 3958 (put the nearest one).
+	Suyagn Vaghela, 2016, Basic length is to be increased at rate 7% per 300m, Above MSL; $%  $% So, correction is (7/100) X (2500/300) X 2500 = 1458 m. $%  $% Then, total length is 3958m.
+	Anfield, 2017, 7%is correct but per 300m is it? $%  $% Please explain.
+	Chhaya, 2017, @Anfield.  $%  $% 300 m Elevation 7% Length is increased.
+	James, 2018, The Max length increase possible is 35%.  $%  $% So, 2500 x 0.35 + 2500 = 3375.  $% Nearest safe length = 3725.
+	Amber, 2019, (7/300) x 2500 = 58.33 above m.s.l.  $% Basic runway length = 1.5833 x 2500. $%                                  = 3958.25. $%                                  = 3725 m (app).
+	Aditya, 2019, How 2500? $%  $% It should be 2100.
+	Bishnu Pokhrel, 2020, 2500+2500*49÷100=3725. $% (2500÷300)for 300 of MSL 7% is added (7*7=49).
+
+
+
+3788. According to I.C.A.O. the recommended length of air ports is decided on
+	Gitanjali, 2018, What is the full form of I.C.A.O?
+	Pranita, 2019, International Civil Aviation Organization - I.C.A.O.
+	Ishu, 2020, A&B only. C is recomended by FAA not ICAO.
+
+
+
+3789. Pick up the correct statement from the following:
+
+
+
+3790. The meterological condition which influences the size and location of an air port is
+
+
+
+3791. Pick up the correct statement from the following:
+
+
+
+3792. Conical surface of the approach area rises outwards
+
+
+
+3793. The thickness design of the pavement, is decided on the load carried by
+	Usman Nissoana, 2017, All loads carried on main gears.
+
+
+
+3794. For Class A Air port the difference of reduced levels of higher and lower edges of the conical surface, is
+	Pravin Adhikari, 2020, Elevation of an airport is determined by the reduced level from the mean sea level.
+	Jaskaran, 2021, Please explain this. How is this value calculated or observed?  $%  $% What are the ranges for other class of airports.
+
+
+
+3795. Beaufort scale is used to determine
+	Chandan, 2018, Please explain the answer.
+	Abi, 2019, It measures the wind speed to observed conditions at sea or on land.
+
+
+
+3796. The fuse large includes
+	Manish Barwal, 2017, Please explain this.
+	Manish, 2018, It is Fuselages not fuse large.
+
+
+
+3797. Pick up the correct statement from the following:
+
+
+
+3798. The distance between main gears is 10 m, and the distance of nose gear from centre of main gears is 30 m. If the angle of turning is 60°, the distance of centre of rotation from the nearer main gear, is
+	Harri, 2016, Please give the explanation of the problem.
+	Vijay, 2017, Please give explaination.
+	Worrie, 2017, Sir, please give the explanation.
+	Ajith, 2017, Tuning radius= t * tan(90-turning angle)+b/2. $% t=30 m, $% b=10 m, $% Turning radius=60, $% After solving turning radius=22.32 m, $% Distance of centre of rotation from nearer main gear=22.32-10=12.32 m.
+	Rupesh, 2020, Tuning radius = t * tan(90-turning angle)+b/2. $% t=30 m, $% b=10 m, $% Turning radius=60, $% After solving turning radius=22.32 m, $% Distance of centre of rotation from nearer main gear=22.32-10=12.32 m.
+	Akshaya, 2020, Tuning radius = t * tan(90-turning angle)+b/2. $% t=30 m, $% b=10 m, $%  $% Turning radius = 60, $% After solving turning radius = 22.32 m, $% Distance of centre of rotation from nearer main gear = 22.32 - 10 = 12.32 m.
+
+
+
+3799. To cope up high temperature of 196°C, the taxi ways and aprons are constructed with
+
+
+
+3800. Pick up the correct abbreviation from the following:
+
+
+
+3801. Wing loading of an aircraft is
+
+
+
+3802. Pick up the incorrect statement from the following:
+
+
+
+3803. From the end of an instrumental runway, the approach surface rises outwards
+	Jinish, 2020, Instrumental ruway is runway surface which is provided obstruction to clear runway and it's behaves as threshold between runway and horizontal surface.
+
+
+
+3804. Speed of
+
+
+
+3805. Pick up the correct statement from the following:
+
+
+
+3806. The coordinates of the ends of a runway are (5000, 5000) and (8000, 7000). The co-ordinates of an other runway are (4600, 5100) and (7000, 5300). The co-ordinates of the A.R.P. are
+	Prakash, 2014, How is this answer calculated?
+	Satya, 2016, How? Explain the calculation part.
+	Afzal Saeed, 2016, It is calculated as weighted avg. Of runway coordinates. $%  $% Lat. = (5000+8000+4600+7000) / 4 = 6150 (additional 0 is mistake). $%  $% Lon. = (5000+7000+5100+5300) / 4 = 5600.
+	Adnan, 2017, What is A.R.P here?
+	Sitansu, 2018, Airport Reference Point @Adnan.
+	Umakant, 2019, ARP : Airport Reference Point.
+
+
+
+3807. A gradient of + 0.08% is followed by a gradient of - 0.07%. If the permissible rate of change of grade is 0.003 per 30 metres, the length of the transition curve, is
+	Anna, 2015, TC length = (S1-S2)*L1/So. $%  $% = (0.008+0.007)*30/0.003 = 150 m.
+	Sudarshan, 2016, How could 0.08% will be 0.008 and 0.07%will be 0.007? It should be 0.0008 and 0.0007. Is it?
+	Chhaya, 2017, According to me, the answer is 1500 m (0.08+0.07) * 30/0.003 = 1500 m.
+	Jinish, 2020, Here gradient is 3% maximum for 30 meter. $%  $% So it's 0.003. $%  $% So, answer 0.008+0.007*30/0.003= 150 m.
+	Koshy Panicker, 2020, The answer is 15m unless its a type in the question. $%  $% If the gradients are 0.8% and -0.7%, then answer would have been 150m.
+
+
+
+3808. Pick up the correct statement from the following:
+
+
+
+3809. The bearing of the runway at threshold is 290°, the runway number is
+	Jony, 2017, Here 290/10.
+	Abarna, 2017, The runway number will not be 29 degree, It will be 29.
+	Madhan Reddy, 2018, @Jony. $%  $% Why 290/10?
+
+
+
+3810. The best direction of a runway is along the direction of
+	Dax, 2019, As the direction of longest spoke on the windrose shows the wind direction with greatest frequency.
+
+
+
+3811. International Civil Aviation Organisation (I.C.A.O.) was set up at Montreal (Canada), in
+
+
+
+3812. The air is blowing at a speed of 75 knots in the direction of the aircraft flying at a ground speed of 775 knots. The air speed of the aircraft, is
+	Rajesh, 2015, How this came?
+	Afzal, 2016, It should be 700 rather than 675. $%  $% As Vair = Vground - Vwind = 775 - 75 = 700 knots.
+	Chintu, 2017, You are right @Afzal.
+	Zia Ur Rehman, 2017, Yes, right @Afzal.
+	Sadulla, 2017, 675 knots is the nearest answer.
+	Maan Singh, 2018, It should be 775-75=700.
+	Abdullah Khan, 2018, It should be 700.
+	Haroon, 2020, It is 850knot the air blowing speed is in the same direction so 775+75 = 850knots, $% If it is in the opposite direction. $% 775-75 = 700knots.
+	Lav Yadav, 2020, Right @Haroon. $%  $% 775+75=850 is the correct answer.
+	Vim, 2020, Right, Thanks @Haroon.
+	Koshy Panicker, 2020, 700 is the correct answer. $%  $% 850 is a blunder.
+	Dinesh Joshi, 2021, 775 + 75 = 850. $%  $% Aircraft speed =  ground speed+/- air speed. $%  $% (+ For the same direction, '-' for the opposite direction).
+
+
+
+3813. For the taxiways, the following statement is true
+
+
+
+3814. Pick up the correct statement from the following:
+
+
+
+3815. The maximum length and pavement strength of the runway is that of
+	Fawad, 2017, It should be B3.
+	Johny Sins, 2021, Runway Length is coded by "first seven English alphabets" and Pavement Strength is coded by "First seven numbers". $%  $% So their Maximum is A1. $%  $% And minimum would be G7.
+	Sab, 2021, Right @Johny Sins.
+
+
+
+3816. According to the International Civil Aviation Organisation (I.C.A.O.), the runway lengths of aerodromes, have been coded by
+	Nithya, 2016, Option D is correct. $%  $% Since, the code says First five English alphabets (based on runway length) and First seven natural numbers (based on the load taken and tyre pressure).
+	Sanjay, 2017, According to me, it should be first five English alphabets.
+	Rabindra, 2017, Right @Sanjay.
+	Abarna, 2017, Yes, ABCDE explains the runway length from highest to lowest value. So first five English alphabet is right.
+	Lav Yadav, 2020, Right, agree @Sanjay.
+	Krishna Prajapati, 2021, The Correct answer is First five English alphabet from A to E.
+	Ritesh Gautam, 2021, @Nitya. $%  $% Seven natural numbers or six for load taken (1-6).
+
+
+
+3817. Pick up the incorrect statement from the following:
+	Hardik, 2019, It should be 225m to 375m.
+
+
+
+3818. According to the International Civil Aviation Organisation (I.C.A.O.) the strength of runway pavements, have been coded by
+	Andy, 2016, What are those first seven numbers? $%  $% Thanks.
+
+
+
+3819. The strength of winds is measured with the help of
+	Chintu, 2017, It's Beaufort scale not Benfort scale.
+	Chandrakant Gunjkar, 2019, A) The Beaufort scale measure that relates wind speed to observed conditions at sea or on land. $% It's full name is the Beaufort wind force scale. $%  $% B) Wind indicator is a small weather vane or arrow that gives an indication of the current apparent wind direction. $%  $% C) A barometer is a scientific instrument used to measure atmospheric pressure, also called barometric pressure.
+
+
+
+3820. The landing and take off of the air craft is made against the direction of wind. In no case the centre line of the runway should make an angle with the wind direction exceeding
+
+
+
+3821. According to I.C.A.O. all markings on the runways are painted white and on taxiways
+
+
+
+3822. If the width of the approach area near the runway end is 150 m, the width of the approach area at a distance of 3 kilometres from runway end will be
+	Deni Khatri, 2017, Explain the calculation of the problem.
+	Prem Poudel, 2017, Explain the calculation of the problem.
+	Kashif, 2019, How? explain.
+	Dharma Joshi, 2020, Explain the answer.
+	Vim, 2020, @All. $%  $% Approach area =40 * approach area at a distance,  $%   = 40 * 30 = 1200m.
+
+
+
+3823. The reduced levels of the ends A and B of a runway are 3025 m and 3035 m and that of its mid-point is 3015 m. The reduced level of the horizontal surface, is
+	Satya, 2016, How, can anyone explain it?
+	Tashu, 2017, Sum of all RL results in 3075.
+	Anki, 2017, Using simple tricks 15 + 35 + 25 = 75.
+	Anjila Bhatta, 2018, Horizontal surface is an imaginary surface located at 45 m above airport established elevation, so established elevation of runway 3025, 3035. $%  $% (3025+3035)/2=3030+45=3075.
+	Ekta Bolkuntwar, 2019, Thanks @Anjila.
+	Wakas, 2020, Thanks @Anjila.
+	Rafeeq, 2020, Thanks for explaining the answer @Anjila.
+	Ritesh Gautam, 2021, Thanks @Anjila Bhatta.
+
+
+
+3824. The height of the pilot's eye above the runway surface is assumed
+
+
+
+3825. Pick up the correct statement from the following:
+
+
+
+3826. For night landing, the thresholds are lighted
+
+
+
+3827. Pick up the component not applicable to aeroplanes
+
+
+
+3828. Effective length of a runway is the distance between
+
+
+
+3829. For the proposed air port, the survey project provides
+
+
+
+3830. The maximum value of the angle of turning of the nose gear large jet aircrafts, is limited to
+
+
+
+3831. Total correction for elevation, temperature and gradient for a runway should not be more than
+
+
+
+3832. Two single runways may be arranged so as to have
+
+
+
+3833. The length of runway is increased per 300 m rise above M.S.L.
+
+
+
+3834. If lift off distance of an craft is 2000 m, the clear way at the end of the runway should not be less than
+	Satya, 2016, Can anyone explain it?
+	Afzal, 2016, CL length = 1/2 (TOD - 1.15 * LOD). $%  $% LOD (Lift off distance) = 1.15 * D (10.5 m or 35 ft Height) = 1.15 * 2000 = 2300 m. $%  $% *TOD (Takeoff Distance) = 1.15 * D (10.5 m or 35 ft Height) = 1.15 * 2300 = 2645 m. $%  $% CL Length = 0.5 * (2645 - 2300) =172.5 m.
+	Rohit, 2018, Thank you @Afzal.
+	Rafeeq, 2020, Thank you @Afzal.
+
+
+
+3835. In instrument landing system
+
+
+
+3836. Pick up the correct statement from the following:
+
+
+
+3837. The length of a runway under standard atmospheric conditions is 1800 m. If the actual reduced level of the site is 1200 m, the design length of the runway is
+	Mahesh, 2015, Correct length may be = 1800+1800*0. 07*1200/300 = 2430 m. So answer must be B.
+	Abiral Bhattarai, 2015, 7/300*1200 = 28. $%  $% 28/100*1800+1800 = 2304. So correct answer is 2304 which is not in option.
+	Satheesh, 2016, 1800*1.07^4 = 2359.6.
+	Pvn, 2017, Give the correct explanation for this question.
+	Atik, 2017, @Mahesh. $%  $% Check your calculation. It comes 2304 not 2430.
+	Rabindra, 2018, Please explain the solution.
+	Rabindra, 2018, (7/100)*1800*(1200/300)=504. $%  $% 1800+504=2404.
+	Rabindra, 2018, I think the Correct answer is D.
+	Niraj, 2018, Guys, I think 6.5°C rise per 1000m elevation. $%  $% And 1% increase in length per °C rise in temperature (standard temp. at sea level is 15°C) should also be considered.
+	Aswin, 2020, The Correction for elevation and temp exceeds 35%. And Answer I got is 2484m.
+	Suraj, 2020, @All. $%  $% Listen me! The Correct answer is A. Because everytime I am calculated 7percent of length of runway and answer added to length. So next time 7 percent of new lenght calculated and added. This process continued for 4 times. Because every 300 m rise length increases 7 percent. Here is 1200 m rise so we take 4 times.
+	Lav Yadav, 2020, I agree and thanks @Abiral Bhattarai and @Suraj.
+	Shiva Bhandari, 2020, 7/300*1800=42%. $% (42/100*1800)+1800, $% 756+1800. $% 2556 ~2560 is the right answer.
+	Naga, 2021, 7% increase in length for every 300m rise,  $% So for 1200 m its 4 times 300 m. $%  $% Therefore .28*1800 = 504. $% So total increase in length 504+1800=2304m. $% So the given answer is wrong.
+	Narendra Bishwokarma, 2021, I agree with you @Suraj & @Nega.
+
+
+

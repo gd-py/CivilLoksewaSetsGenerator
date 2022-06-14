@@ -1,0 +1,10 @@
+1. theory-of-structures	5
+2. surveying	7
+3. building-construction		6
+4. concrete-technology	5
+5. soil-mechanics-and-foundation-engineering	6
+6. construction-management	6
+7. estimating-and-costing	5
+8. drawing	4
+9. engineering-economy	3
+10. professional-practice	3

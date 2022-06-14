@@ -1,0 +1,1026 @@
+1. The art of representation of an object by systemic lines on a paper is known as
+a) drawing
+b) art
+c) dimensioning
+d) profession
+
+2. Drawing is the .................of engineers.
+a) language
+b) tools
+c) machine
+d) all of the above
+
+3. The edge of drawing board where T-square is made to slide is called
+a) sliding edge
+b) fixing edge
+c) working edge
+d) all of the above
+
+4. As per IŞI recommended size of drawing board is/are
+a) B0 (1000x 1500m)
+b) B1 (700x 1000m)
+c) B2 (500x700m)
+d) all of the above
+
+5. Working edge of drawing board is kept ........... of the user.
+a) left
+b) right
+c) ahead
+d) all of the above
+
+6. Drawing board is made of
+a) well seasoned soft wood
+b) well seasoned hard wood
+c) moisted soft wood
+d) moisted hard wood
+
+7. During drawing stock of T-square is placed
+a) adjoining the working edge of the board
+b) adjoining the sliding edge of the board
+c) surface of the board,
+d) none of the above
+
+8. The working edge of T-square is used to
+a) draw horizontal line
+b) as a base of set square
+c) draw horizontal parallel line
+d) all of the above
+
+9. Set squares are not used to draw
+a) straight line
+b) vertical line with T-square
+c) horizontal line
+d) all of the above
+
+10. The diameter of semi-circle is called
+a) diameter of protractor
+b) base of protractor
+c) length of protractor
+d) none of the above
+
+11. Drawing pins/cello tapes are used to
+a) draw a drawing
+b) move the drawing
+c) fix the drawing
+d) all of the above
+
+12. When only one drawing is to be made then its position should be
+a) left side of paper
+b) right side of paper
+c) upper side of paper
+d) centre of paper
+
+13. Working drawing space on the paper is determined by
+a) working line
+b) drawing line
+c) border line
+d) deader line
+
+14. The edge of the board on which T-square is made to slide is called
+a) working edge
+b) drawing line
+c) border line
+d) deader line
+
+15. To prevent warping of warping of the board ........are cleated at its back.
+a) packing
+b) wooden block
+c) batten
+d) none of the above
+
+16. The two parts of T-square are....... and .......
+a) vertical and horizontal edge
+b) straight and slant edge
+c) stock and blade
+d) blade and batten
+
+17. Angles in multiples of 15 degree are constructed by the combined use of
+a) T-square and set-square
+b) set-square and scale
+c) scale and french curve
+d) french curve and erasing shield
+
+18. To draw or measure angles .......... is used.
+a) set-square
+b) T-square
+c) protractor
+d) all of the above
+
+19. For drawing large-size circles ........... is attached to the compass (>150mm).
+a) straight bar
+b) bow compass
+c) lengthening bar
+d) divider
+
+20. Circles of small radii are drawn by means of a
+a) straight bar
+b) bow compass
+c) lengthening bar
+d) drop compass
+
+21. The scale should never be used as a ........ for drawing straight lines.
+a) set-square
+b) working edge
+c) straight edge
+d) none of the above
+
+22. Measurements from scale to the drawing are transferred with the aid of 19
+a) scale
+b) compass
+c) divider
+d) plumbing fork
+
+23. ....... is used for setting of short equal distances.
+a) compass
+b) bow divider
+c) scale
+d) lengthening bar
+
+24. In drafting machine, which one does not follow :
+a) levelling machine
+b) T-squared
+c) set square
+d) divider
+
+25. Which one is not drafting equipment ?
+a) drafter
+b) dust cloth
+c) scale
+d) None of the above
+
+26. Circles of very small radii are drawn by means of a
+a) straight bar
+b) bow compass
+c) lengthening bar
+d) drop compass
+
+27. ......... is used to protect the adjoining lines on the drawing when some parts of the line is being erased
+a) eraser
+b) erasing shield
+c) pencil
+d) drop compass
+
+28. For drawing thin lines of uniform thickness the pencil should be sharpened in the form of
+a) chisel edge
+b) conical
+c) pointed
+d) circular
+
+29. Pencil of ...... grade sharpened in the form of ......... is used for sketching
+a) soft & conical point
+b) low and conical point
+c) hard & conical point
+d) chisel & conical point
+
+30. ......... is used for drawing curves which can't be drawn by a compass
+a) bow compass
+b) protractor
+c) french curve
+d) scale
+
+31. To remove unnecessary lines ....... is used
+a) duster
+b) chalk
+c) sand box
+d) eraser
+
+32. Uses of the T-square, set squares, scale and protractor are combined in the
+a) set-square
+b) drafting machine
+c) compass
+d) none of the above
+
+33. Circle and arcs of circles are drawn by means of a .......
+a) lengthening bar
+b) divider
+c) compass
+d) T-square
+
+34. The projection of any feature on the horizontal plane is called
+a) plan
+b) elevation
+c) map
+d) all of the above
+
+35. Inking pen is used for drawing -- in ink
+a) writing
+b) curve
+c) straight line
+d) none of the above
+
+36. Set squares are used for drawing ........ ....... .. and ........... lines.
+a) vertical
+b) inclined
+c) parallel
+d) all of the above
+
+37. The purpose of making the drawing board with seasoned soft wood
+a) easy to carry
+b) for fixing of drawing paper with the help of drawing pin
+c) to match with T-square
+d) all of the above
+
+38. For dimensioning and lettering normally following pencils are used
+a) H & HB
+b) 2H & HB
+c) H&2HB
+d) 2H & 2HB
+
+39. The most important material for drawing is
+a) pencil and eraser
+b) eraser & paper
+c) paper & pencil
+d) none of the above
+
+40. Which pencil is used for thinner line?
+a) H
+b) B
+c) 2B
+d) 2H
+
+41. 9H pencil is ......than the 7H pencil
+a) softer
+b) harder
+c) medium
+d) none of the above
+
+42. To draw very light line which pencil is used
+a) B
+b) HB
+c) H
+d) 2H
+
+43. The paper size of A, is
+a) 297 x 420
+b) 210 x 297
+c) 420x 850
+d) none of the above
+
+44. Size of A4 size paper is
+a) 148 x 210 mm
+b) 210 x 297 mm
+c) 297 x 210 mm
+d) 320 X 460 mm
+
+45. Number of equal pieces of A4 size paper from A0 is equal to
+a) 2
+b) 4
+c) 8
+d) 16
+
+46. The area occupied by Ao (drawing sheet) is ........... times the area occupied by A1 (drawing sheet).
+a) 2
+b) 4
+c) 8
+d) 16
+
+47. The area occupied by Ao (drawing sheet) is .......... times the area occupied by Az (drawing sheet).
+a) 2
+b) 4
+c) 8
+d) 16
+
+48. The area occupied by Ao (drawing sheet) is ......... times the area occupied by A3 (drawing sheet).
+a) 2
+b) 4
+c) 8
+d) 16
+
+49. The area occupied by Ao (drawing sheet) is ........... times the area occupied by A4 (drawing sheet)
+a) 2
+b) 4
+c) 8
+d) 16
+
+50. The equipment mainly used to transfer the measurements is
+a) scale
+b) divider
+c) compass
+d) drawing ping
+
+51. The shape of scales are
+a) flat and triangular
+b) flat and rectangular
+c) flat and square
+d) all of the above
+
+52. The drawing for municipality is done at scale
+a) 1" = 8"
+b) 1:50
+c) 1:100
+d) both (a) and (c)
+
+53. To measure a fraction we use
+a) diagonal scale
+b) T-square
+c) set square
+d) planimeter
+
+54. Find the RF for scale 1cm= 25 km
+a) 1/250
+b) 1/2500
+c) 1/25000
+d) 1/2500000
+
+55. Tracing paper is also named as
+a) drafting vellum
+b) drafting film
+c) drafting media
+d) drafting line
+
+57. Bisecting a line means, divide a line into..... equal part.
+a) two
+b) three
+c) four
+d) none of the above
+
+58. The angle between two perpendicular line is
+a) 0°
+b) 45°
+c) 90°
+d) 180°
+
+59. The angle between two horizontal line is
+b) 0°
+b) 180°
+c) both (a) and (b) of above
+d) none of the above
+
+60. Dashed (dotted) line is used for indication
+a) edge of the object
+b) hidden edge of the object
+c) centre line of the object
+d) all of the above
+
+61. The lines which are drawn to represent visible edges and surface boundaries of objects are called.
+a) outlines
+b) principle lines
+c) both (a) and (b) of above
+d) none of the above
+
+62. The unseen/inner edge of an object is represented by
+a) solid line
+b) dotted line
+c) hatch line
+d) none of the above
+
+63. The space between two sentences should be left equal to
+a) height of letter
+b) twice the ht. of letter
+c) 1.5 times ht. of letter
+d) none of the above
+
+64. In case of aligned method of dimensioning, they can be readable form
+a) bottoms and right side of drawing sheet
+b) bottoms and left side of drawing sheet
+c) bottoms and top side of drawing sheet
+d) all of the above
+
+65. In case of unidirectional method of dimensioning, they can be read from
+a) bottom side of drawing sheet only
+b) right side of drawing sheet only
+c) top side of drawing sheet only
+d) left side of drawing sheet only
+
+66. The main objective of writing letters/alphabets on the drawing is to make the drawing
+a) more fantastic
+b) more informative
+c) more expensive
+d) all of the above
+
+67. The angle between isometric axes is
+a) 30°
+b) 60°
+c) 90°
+d) 120°
+
+68. The isometric length of the edge of the cube is
+a) more than actual length
+b) qual to actual length
+c) less than actual length
+d) all of the above
+
+69. The isometric length of the edge of the cube is obtained by
+a) adding 0.815 in actual length
+b) dividing actual length by 0.815
+c) multiplying actual length by 0.815
+d) none of the above
+
+70. In case of perspective projection, picture plane is placed
+a) between eye and object
+b) outside of eye towards eye
+c) outside of object toward object
+d) all of above
+
+71. Perspective projection is used to represent
+a) real exact size of object
+b) real exact shape of object
+c) natural view of the object
+d) all of the above
+
+72. Normally perspective projection is used by ....... to represent the object
+a) engineer
+b) doctor
+c) manufacturer in marketing
+d) painter
+
+73. Picture plane is
+a) transparent
+b) opaque
+c) semi transparent
+d) all of the above
+
+74. The plane on which perspective is formed is called:
+a) horizontal plane
+b) picture plane
+c) ground plane
+d) central plane
+
+75. Ground plane is
+a) horizontal plane
+b) vertical plane
+c) inclined plane
+d) none of the above
+
+76. Perspective drawing is done for
+a) not for civil engineers
+b) show details of market products
+c) both (a) and (b) of above
+d) none of the above
+
+77. Why perspective drawing is done by manufacturer?
+a) It is easy to express in the market
+b) shape is confirmed
+c) exact size is not measured
+d) all of the above
+
+78. In orthographic projection which one have all three views same
+a) cube
+b) circle
+c) sphere
+d) both (a) and (c) of above
+
+79. Which is not pictorial projection?
+a) oblique projection
+b) orthographic projection
+c) trignometric
+d) axonometric projection
+
+80. View of circle in orthographic is
+a) ellipse
+b) circle
+c) ellipse and circle
+d) triangle
+
+81. In orthographic projection, projector lines are
+a) vertical lines
+b) inclined lines
+c) horizontal lines
+d) none of above
+
+82. In third angle projection top view is put
+a) above front view
+b) below font view
+c) side view
+d) none of the above
+
+83. In case of third angle projection, plan is kept at
+a) top
+b) below
+c) side
+d) none
+
+84. In case of orthographic projection the number of view generally used are
+a) 2
+b) 4
+c) 6
+d) 8
+
+85. Mechanical lines are types of
+a) mechanic drawing
+b) line of drawn with free hand
+c) line drawn with drawing equipment
+d) none of the above
+
+86. The main purpose of leader line is
+a) show dimension
+b) to connect a note with the feature
+c) to show beauty
+d) to show hatch
+
+87. Hatching line is a line which makes an angle of 45° with
+a) horizontal
+b) vertical
+c) main line of the section
+d) all of the above
+
+88. Horizontal lines are drawn
+a) left to right
+b) right to left
+c) top to bottom
+d) both (a) and (b) above
+
+89. Vertical lines are drawn
+a) top to bottom
+b) bottom to top
+c) both (a) and (b) above
+d) none of the above
+
+90. The other name of axonometric projection is
+a) one plane projection
+b) two plane projection
+c) three plane projection on
+d) all of the above
+
+91. One plane projection is
+a) axonometric projection
+b) oblique projection
+c) both (a) and (b) above
+d) none of the above
+
+92. Axonometric view/drawing is what type of view?
+a) one plane
+b) two plane
+c) three plane
+d) six plane
+
+93. Axonometric drawing is a drawing like
+a) parallel to the plane
+b) perpendicular to the plane
+c) inclined to the plane
+d) all of the above
+
+94. In one plane drawing, which one does not falls under
+a) orthographic
+b) axonometric
+c) oblique
+d) dimetric
+
+95. A 100 m long line making 30° with the vertical, show its projection on horizontal plane
+a) 100 m
+b) 50 m
+c) 86.6 m
+d) 70.71 m
+
+96. The point of intersection of co-ordinate axis is called
+a) zero-zero
+b) origin
+c) cross point
+d) all of the above
+
+97. Axonometric projection is a special types of
+a) orthographic projection
+b) perspective projection
+c) isometric projection
+d) multi view projective
+
+98. In case of dimetric projection
+a) two sides are not equally inclined
+b) two sides are equally inclined
+c) two sides are parallel
+d) two sides are equal
+
+99. In a topographic drawing the symbols representing natural features are drawn by free hand while artificial works are drawn by
+a) free hand
+b) mechanically
+c) both (a) and (b) of above
+d) none of the above
+
+107. Topographic map is used to represent the
+a) artificial detail
+b) natural detail
+c) construction detail
+d) all of the above
+
+108. Concept drawing is normally provided for the work of
+a) tender
+b) construction
+c) revise estimate
+d) all of the above
+
+109. As built drawing is normally constructed................the construction.
+a) before construction
+b) simultaneously with construction
+c) after construction
+d) all of the above
+
+110. Free hand sketch is normally used for
+a) concept
+b) final
+c) discussion
+d) none of the above
+
+111. Free hand drawing is done for
+a) generate new idea
+b) to make correction
+c) both (a) and (b) of above
+d) none of the above
+
+112. In engineering field free hand drawing is mostly used for
+a) shape
+b) size
+c) to express easily to client
+d) to express dimension
+
+113. The techniques for free hand sketch to drawing straight line is
+a) fixing two end points
+b) fixing length of the line
+c) fixing the center of line
+d) all of the above
+
+114. The techniques for free hand sketch to drawing circle is
+a) fixing a fixed point and arc
+b) fixing the perimeter
+c) fixing the radius only
+d) none of the above
+
+115. The main purpose of as built drawing is
+a) maintenance of service work '
+b) dimensioning
+c) profession
+d) to award tender
+
+116. The section obtained when the section plane is inclined to the axis of cone and cuts all the generators on either side of the apex, is called .......
+a) an ellipse
+b) a parabola
+c) a hyperbola
+d) a circle
+
+117. The section obtained when the section plane is inclined to the axis of cone, but parallel to one of the generators of a cone is called ......... ......
+a) an ellipse
+b) a parabola
+c) a hyperbola
+d) a circle
+
+118. The section obtained when the section plane makes a smaller angle with its axis than that of the angle made by the generator of a cone is called
+a) an ellipse
+b) a parabola
+c) a hyperbola
+d) a circle
+
+119. The section obtained when the section plane passes parallel to the base of a cone is called
+a) an ellipse
+b) a parabola
+c) a hyperbola
+d) a circle
+
+120. The section obtained when the section plane passes through the apex of the cone in such a of it is perpendicular to the base is called .....
+a) a triangle
+b) a parabola
+c) a hyperbola
+d) a circle
+
+121. The polyhedra  having two equal and similar end bases, parallel to each other and are other faces which may be rectangle, or parallelograms is called ......
+a) a prism
+b) a pyramid
+c) a cylinder
+d) a cone
+
+123. The solid which is generated by the revolution of a rectangle about one of its sides which remains fixed is called
+a) a prism
+b) a pyramid
+c) a cylinder
+d) a cone
+
+124. The solid which is generated by the revolution of a right angle triangle about one of its perpendicular sides which remains fixed is called ....
+a) a prism
+b) a pyramid
+c) a cylinder
+d) a cone
+
+125. When a pyramid or cone is cut by a cutting plane parallel to its base, the remaining portion thus obtained after removing the top portion is called :..
+a) a prism .
+b) frustum
+c) a cylinder
+d) a cone
+
+126. Which of the following is not a drawing hand tool?
+a) alidade
+b) straight edge
+c) french curve
+d) set squares
+
+127. For drawing of small objects, the scale used is
+a) enlarged
+b) full size
+c) reducing
+d) all of the above
+
+128. French curve is used to draw
+a) regular curve
+b) circle
+c) irregular curve
+d) none of the above
+
+129. Parallel rullig straight edge machine is used to draw
+a) inclined lines
+b) curved lines
+c) irregular lines
+d) horizontal lines
+
+130. Working drawing is prepared not for
+a) bill of quantities
+b) estimation
+c) layout
+d) specification
+
+131. The set of technical drawings used during the manufacturing phase of product including cvili construction, are known as
+a) structural drawing
+b) as built drawing
+c) structural drawing
+d) working drawing
+
+132. In orthographic projection, the line of sight and plane of projection are
+a) perpendicular
+b) parallel
+c) horizontal
+d) vertical
+
+133. In full sectional view, the object is imagined to be cut off
+a) one third
+b) one half
+c) one fourth
+d) one fifth
+
+134. The purpose of sectional view is to show the
+a) surface of the object
+b) internal of the object
+c) shape of the object
+d) none of the above
+
+135. The drawing prepared by a pencil and without use of drawing instrument is called
+a) isometric drawing
+b) orthographic projection
+c) cadastral
+d) free hand sketching
+
+136. The view actually appears to the observer when viewed from a fixed position is called
+a) isometric drawing
+b) orthographic projection
+c) perspective drawing
+d) none of the above
+
+137. The point in space where parallel lines meet are called
+a) station point
+b) vanishing point
+c) origin
+d) all of the above
+
+138. Free hand sketching can be done only when, one has
+a) proper proficiency
+b) good practice
+c) proper patience et
+d) all of the above
+
+139. Sketching is usually done:
+a) with French curves
+b) free hand
+c) with drafting machine
+d) with protractor
+
+140. One method of preparing perspective of an object is
+a) lattice method
+b) vanishing point method
+c) evolution method
+d) equilibrium method
+
+141. The proportion by which the actual size of an object is enlarged or reduced in drawing is simply known as
+a) multiplication factor Dil
+b) scale
+c) reflection factor
+d) none of the above
+
+142. ”Title Block” is placed at bottom right hand corner of the drawing which gives information about
+a) title of drawing
+b) scale of the drawing
+c) serial no of drawing
+d) all of the above
+
+143. The locus of centre of curvature is known as
+a) space
+b) evolute
+c) point
+d) centre
+
+144. In engineering drawing, auxiliary views are used to show details of
+a) incline surface
+b) horizontal surface
+c) vertical surface
+d) none of the above
+
+145. In the first angle projection the object is assumed to be placed in
+a) fourth quadrant
+b) third quadrant
+c) second quadrant
+d) first quadrant
+
+146. First angle projection method and third angle projection method are used in:
+a) axonometric views
+b) isometric views
+c) orthographic views
+d) none of the above
+
+147. "Perspective Drawing" is an approximate representation on a flat surface of an image.......
+a) as it is perceived by the eye
+b) as it is drawn on computer
+c) of a free hand drawing
+d) as it is felt by the hands
+
+148. Which of the the following is not intended while making a 'sketch' in the context of technical drawings?
+a) a fished product
+b) free hand sketching
+c) a preliminary product
+d) a quick way to record an idea for work
+
+149. One of the characteristics features of a perspective drawing is that objects are drawn:
+a) smaller as their distance from the observer increases
+b) same size irrespective of distance
+c) larger as their distance from the observer increases
+d) none of the above
+
+150. The principal of oblique view drawing is to keep:
+a) width axes at 90°
+b) width and height axes at 90°
+c) width, height and depth axes at 90°
+d) all of the above
+
+151. In Engineering Drawing, French Curves mean :
+a) the shape of an hourglass
+b) drafting tools used to draw non-linear figures
+c) drafting tools used to draw oblong figures
+d) helical designs patented in France
+
+152. The maps which are on sufficient large scale to enable the individual features shown on the map to be identified on the ground by their shape and position are called :
+a) topographical maps
+b) geographical maps
+c) geological maps
+d) site plan
+
+153. The letter 'H' lebelled in a Drawing Pencil indicates -
+a) relative hardness
+b) thickness of line
+c) both of above
+d) none of the above
+
+154. The line connecting a view to note is called :
+a) leader
+b) cross line
+c) outline
+d) dimension line
+
+155. In isometric view a circle is seen as :
+a) a parabola
+b) a hyperbola
+c) a cone
+d) an ellipse
+
+156. In orthographic projection, the projection's are always .......... to the plane of projection
+a) perpendicular
+b) parallel
+c) 60°
+d) 30°
+
+157. In standard A series drawing sheet, the ratio of length of shorter side to longer side
+a) 1:2
+b) 3:4
+c) 1:5
+d) 2:6
+
+158. Which of the following theories of mathematics is used by a CAD (computer Aided Design) software in are in creating a perspective design?
+a) descriptive geometry
+b) linear algebra
+c) Bernoulli's theorem
+d) vector analysis
+
+159. The most of the texture can be drawn with the help of drawing pen with line thickness
+a) 0.1mm
+b) 0.5mm
+c) 0.8mm
+d) 1.0mm
+
+160. Presentation drawing are generally rendered due to
+a) decoration
+b) give real effects
+c) attract the client
+d) satisfaction
+
+161. The most suitable angle for the cone of the vision for drawing perspective is
+a) 60°
+b) 45°
+c) 30°
+d) 150
+
+162. The best drawing paper used for water colour is :
+a) hand made paper (hand made drawing sheet)
+b) tracing drawing sheet
+c) ordinary drawing sheet
+d) ammonia paper
+
+163. The length of the rectangle representing the development of the lateral surface of a right circular cylinder is equal to :
+a) circumference of the circular base
+b) twice the circumference of circular base
+c) diameter of the circular base
+d) radius of the circular base
+
+164. Third angle projection is the traditional ............. system.
+a) American
+b) British
+c) Indian
+d) Nepali
+
+165. Engineers prefer to make ......... sketches than to pictorial sketches to clear the shape of an object
+a) orthographic
+b) perspective
+c) auto CAD
+d) all of the above
+
+166. The selection of suitable scale and allotment of proper space for margin, title block, revision panel, folding marks, etc. on the drawing sheet is known as:
+a) formatting
+b) layout
+c) folding
+d) centering
+
+167. The size of the title block of all sizes of drawing sheet is :
+a) 420 mm, 65 mm
+b) 185 mm, 65 mm
+c) 297 mm, 65 mm
+d) 185 mm, 50 mm
+
+168. The projection in which the length, breadth and height of an object is shown in one view is known as:
+a) pictorial projection
+b) isometric projection
+c) cavalier projection
+d) cabinet projection
+
+169. The shades and shadows are :
+a) the same
+b) the different
+c) the result of object on the ground
+d) the result of light on the ground
+
+170. Pencil drawings are generally corrected or revised with the help of:
+a) razor blade
+b) eraser shield
+c) ink
+d) all of the above
+
+171. Dimension lines and projection lines are drawn as:
+a) continuous thick lines
+b) continuous thin line with zig zags
+c) continuous thin line
+d) continuous thin and wary lines
+
+172. Select the incorrect statement about orthographic projections :
+a) the reference planes are also called the principle planes
+b) the object must the situated in the first quadrant
+c) the planes of projection and assumed to be transparent
+d) projections are obtained by drawing perpendicular s from the object to the planes
+
+173. In the first angle method of orthographic projection
+a) the object comes between the observer and the plane
+b) the plane comes between the object and the observer
+c) the observer comes between the object and the plane
+d) none of the above
+
+174. Which of the following regarding scales in drawing is NOT true?
+a) the name of the scale (e.g. scale 1:10) should be mentioned below the scale
+b) a diagonal scale consists of a primary scale and a venirer
+c) comparative scales may be plain or diagonal
+d) when an unusual scale is used it is constructed on the drawing sheet
+
+175. The free hand drawing of a ordinary room is generally:
+a) one point perspective
+b) two pint perspective
+c) three point perspective
+d) all of the above
+
+176. Site plan is a:
+a) structural plan
+b) architecturel plan
+c) section plan
+d) none of the above 1
+
+177. Working drawings:
+a) must provide complete information to produce the object
+b) need not provide complete information
+c) should be supplemented by further details TOPS
+d) should be supplemented by specifications
+
+178. In general structural drawings would typically include following information:
+a) north point
+b) plan, section and elevation
+c) notes on specification
+d) all of the above
+
+179. A technical drawing of an object that shows the relationship or order of assembly of the various parts is known
+a) orthographic projection
+b) expolded view drawing
+c) compacted view drawing
+d) axonometric drawing
+
+180. The space covered by a drawing in a paper after changing the scale from 1:100 to 1:50 will:
+a) increase 400%
+b) increase 200%
+c) decrease 200
+d) decrease 400%
+

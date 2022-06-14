@@ -1,0 +1,16 @@
+surveying		4
+building-materials		4
+theory-of-structures		2
+strength-of-materials		2
+hydraulics		4
+soil-mechanics-and-foundation-engineering		4
+rcc-structure-design		4
+building-construction		2
+concrete-technology		2
+water-supply-engineering		2
+waste-water-engineering		2
+irrigation		4
+highway-engineering		4
+estimating-and-costing		4
+construction-management		4
+airport-engineering		2
