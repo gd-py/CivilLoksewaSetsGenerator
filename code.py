@@ -10,8 +10,8 @@ syllabus_sub = [4, 4, 2, 2, 4, 4, 4, 2, 2, 2, 2, 4, 4, 4, 4, 2]
 
 for_civil = True
 create_question_bank = False
-test_phase = False
-write_to_document = True
+test_phase = True
+write_to_document = False
 total_sets_needed = 1
 if test_phase: total_sets_needed = 5
 
